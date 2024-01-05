@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				40,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle-Fox"
+		},
+		{
+			"offsets": [
+				4,
+				-24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down-Fox"
+		},
+		{
+			"offsets": [
+				129,
+				33
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left-Fox"
+		},
+		{
+			"offsets": [
+				199,
+				64
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right-Fox"
+		},
+		{
+			"offsets": [
+				261,
+				208
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up-Fox"
+		},
+		{
+			"offsets": [
+				260,
+				194
+			],
+			"loop": false,
+			"fps": 28,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "Fire-Fox"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				200,
+				30
+			],
+			"anim": "sleepy",
+			"fps": 24,
+			"name": "Sleep-Fox",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/FoxTM",
+	"position": [
+		100,
+		365
+	],
+	"healthicon": "Fox",
+	"flip_x": false,
+	"healthbar_colors": [
+		100,
+		220,
+		100
+	],
+	"camera_position": [
+		-20,
+		-70
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

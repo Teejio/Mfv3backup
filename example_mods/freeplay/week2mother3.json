@@ -1,0 +1,11 @@
+{
+	"cartridgeName": "Mother3",
+	"songs":[
+        ["Love", "lucasAlt" , "bf"],
+		["Warforged", "claus", "lucas"],
+		["mother3real", "salsaPix", "lucasPix"]
+    ],
+	"weekName": "Mother3Songs",
+	"hintText": "Beat Love in Story Mode"
+
+}

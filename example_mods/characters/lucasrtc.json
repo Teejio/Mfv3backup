@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "lucas idle"
+		},
+		{
+			"offsets": [
+				50,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "lucas left"
+		},
+		{
+			"offsets": [
+				-1,
+				-121
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "lucas down"
+		},
+		{
+			"offsets": [
+				-12,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "lucas up"
+		},
+		{
+			"offsets": [
+				-12,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "lucas right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/lucasrtc",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "lucasrtc",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		223,
+		0
+	],
+	"camera_position": [
+		300,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

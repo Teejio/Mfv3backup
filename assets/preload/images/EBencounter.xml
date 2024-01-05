@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="EBencounter.png" width="2480" height="3240">
+  <SubTexture name="intro0000.png" x="0" y="0"  width="620" height="540" frameX="-0" frameY="-0" frameWidth="620" frameHeight="540"/>
+  <SubTexture name="intro0001.png" x="620" y="0"  width="620" height="540" frameX="-0" frameY="-0" frameWidth="620" frameHeight="540"/>
+  <SubTexture name="intro0002.png" x="1240" y="0"  width="620" height="540" frameX="-0" frameY="-0" frameWidth="620" frameHeight="540"/>
+  <SubTexture name="intro0003.png" x="1860" y="0"  width="620" height="540" frameX="-0" frameY="-0" frameWidth="620" frameHeight="540"/>
+  <SubTexture name="intro0004.png" x="0" y="540"  width="620" height="540" frameX="-0" frameY="-0" frameWidth="620" frameHeight="540"/>
+  <SubTexture name="intro0005.png" x="620" y="540"  width="620" height="540" frameX="-0" frameY="-0" frameWidth="620" frameHeight="540"/>
+  <SubTexture name="intro0006.png" x="1240" y="540"  width="620" height="540" frameX="-0" frameY="-0" frameWidth="620" frameHeight="540"/>
+  <SubTexture name="intro0007.png" x="1860" y="540"  width="620" height="540" frameX="-0" frameY="-0" frameWidth="620" frameHeight="540"/>
+  <SubTexture name="intro0008.png" x="0" y="1080"  width="620" height="540" frameX="-0" frameY="-0" frameWidth="620" frameHeight="540"/>
+  <SubTexture name="intro0009.png" x="620" y="1080"  width="620" height="540" frameX="-0" frameY="-0" frameWidth="620" frameHeight="540"/>
+  <SubTexture name="intro0010.png" x="1240" y="1080"  width="620" height="540" frameX="-0" frameY="-0" frameWidth="620" frameHeight="540"/>
+  <SubTexture name="intro0011.png" x="1860" y="1080"  width="620" height="540" frameX="-0" frameY="-0" frameWidth="620" frameHeight="540"/>
+  <SubTexture name="intro0012.png" x="0" y="1620"  width="620" height="540" frameX="-0" frameY="-0" frameWidth="620" frameHeight="540"/>
+  <SubTexture name="intro0013.png" x="620" y="1620"  width="620" height="540" frameX="-0" frameY="-0" frameWidth="620" frameHeight="540"/>
+  <SubTexture name="intro0014.png" x="1240" y="1620"  width="620" height="540" frameX="-0" frameY="-0" frameWidth="620" frameHeight="540"/>
+  <SubTexture name="intro0015.png" x="1860" y="1620"  width="620" height="540" frameX="-0" frameY="-0" frameWidth="620" frameHeight="540"/>
+  <SubTexture name="intro0016.png" x="0" y="2160"  width="620" height="540" frameX="-0" frameY="-0" frameWidth="620" frameHeight="540"/>
+  <SubTexture name="intro0017.png" x="620" y="2160"  width="620" height="540" frameX="-0" frameY="-0" frameWidth="620" frameHeight="540"/>
+  <SubTexture name="intro0018.png" x="1240" y="2160"  width="620" height="540" frameX="-0" frameY="-0" frameWidth="620" frameHeight="540"/>
+  <SubTexture name="intro0019.png" x="1860" y="2160"  width="620" height="540" frameX="-0" frameY="-0" frameWidth="620" frameHeight="540"/>
+  <SubTexture name="intro0020.png" x="0" y="2700"  width="620" height="540" frameX="-0" frameY="-0" frameWidth="620" frameHeight="540"/>
+</TextureAtlas>

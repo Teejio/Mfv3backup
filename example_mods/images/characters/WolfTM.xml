@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Wolf.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Down-Wolf0000" x="5" y="5" width="448" height="380" frameX="0" frameY="-9" frameWidth="449" frameHeight="389"/>
+	<SubTexture name="Down-Wolf0001" x="5" y="5" width="448" height="380" frameX="0" frameY="-9" frameWidth="449" frameHeight="389"/>
+	<SubTexture name="Down-Wolf0002" x="458" y="5" width="448" height="389" frameX="-1" frameY="0" frameWidth="449" frameHeight="389"/>
+	<SubTexture name="Down-Wolf0003" x="458" y="5" width="448" height="389" frameX="-1" frameY="0" frameWidth="449" frameHeight="389"/>
+	<SubTexture name="Down-Wolf0004" x="458" y="5" width="448" height="389" frameX="-1" frameY="0" frameWidth="449" frameHeight="389"/>
+	<SubTexture name="Down-Wolf0005" x="458" y="5" width="448" height="389" frameX="-1" frameY="0" frameWidth="449" frameHeight="389"/>
+	<SubTexture name="Down-Wolf0006" x="458" y="5" width="448" height="389" frameX="-1" frameY="0" frameWidth="449" frameHeight="389"/>
+	<SubTexture name="Down-Wolf0007" x="458" y="5" width="448" height="389" frameX="-1" frameY="0" frameWidth="449" frameHeight="389"/>
+	<SubTexture name="Down-Wolf0008" x="458" y="5" width="448" height="389" frameX="-1" frameY="0" frameWidth="449" frameHeight="389"/>
+	<SubTexture name="Down-Wolf0009" x="458" y="5" width="448" height="389" frameX="-1" frameY="0" frameWidth="449" frameHeight="389"/>
+	<SubTexture name="Down-Wolf0010" x="458" y="5" width="448" height="389" frameX="-1" frameY="0" frameWidth="449" frameHeight="389"/>
+	<SubTexture name="Down-Wolf0011" x="458" y="5" width="448" height="389" frameX="-1" frameY="0" frameWidth="449" frameHeight="389"/>
+	<SubTexture name="Down-Wolf0012" x="458" y="5" width="448" height="389" frameX="-1" frameY="0" frameWidth="449" frameHeight="389"/>
+	<SubTexture name="Down-Wolf0013" x="458" y="5" width="448" height="389" frameX="-1" frameY="0" frameWidth="449" frameHeight="389"/>
+	<SubTexture name="Idle-Wolf0000" x="911" y="5" width="385" height="490" frameX="0" frameY="-3" frameWidth="388" frameHeight="493"/>
+	<SubTexture name="Idle-Wolf0001" x="1301" y="5" width="388" height="493"/>
+	<SubTexture name="Idle-Wolf0002" x="1301" y="5" width="388" height="493"/>
+	<SubTexture name="Idle-Wolf0003" x="1694" y="5" width="340" height="477" frameX="-38" frameY="-16" frameWidth="388" frameHeight="493"/>
+	<SubTexture name="Idle-Wolf0004" x="1694" y="5" width="340" height="477" frameX="-38" frameY="-16" frameWidth="388" frameHeight="493"/>
+	<SubTexture name="Idle-Wolf0005" x="5" y="503" width="335" height="479" frameX="-45" frameY="-14" frameWidth="388" frameHeight="493"/>
+	<SubTexture name="Idle-Wolf0006" x="5" y="503" width="335" height="479" frameX="-45" frameY="-14" frameWidth="388" frameHeight="493"/>
+	<SubTexture name="Idle-Wolf0007" x="345" y="503" width="378" height="484" frameX="-3" frameY="-9" frameWidth="388" frameHeight="493"/>
+	<SubTexture name="Idle-Wolf0008" x="345" y="503" width="378" height="484" frameX="-3" frameY="-9" frameWidth="388" frameHeight="493"/>
+	<SubTexture name="Idle-Wolf0009" x="728" y="503" width="384" height="489" frameX="-1" frameY="-4" frameWidth="388" frameHeight="493"/>
+	<SubTexture name="Idle-Wolf0010" x="728" y="503" width="384" height="489" frameX="-1" frameY="-4" frameWidth="388" frameHeight="493"/>
+	<SubTexture name="Idle-Wolf0011" x="911" y="5" width="385" height="490" frameX="0" frameY="-3" frameWidth="388" frameHeight="493"/>
+	<SubTexture name="Idle-Wolf0012" x="911" y="5" width="385" height="490" frameX="0" frameY="-3" frameWidth="388" frameHeight="493"/>
+	<SubTexture name="Idle-Wolf0013" x="911" y="5" width="385" height="490" frameX="0" frameY="-3" frameWidth="388" frameHeight="493"/>
+	<SubTexture name="Left-Wolf0000" x="1117" y="503" width="423" height="435" frameX="0" frameY="-1" frameWidth="424" frameHeight="436"/>
+	<SubTexture name="Left-Wolf0001" x="1117" y="503" width="423" height="435" frameX="0" frameY="-1" frameWidth="424" frameHeight="436"/>
+	<SubTexture name="Left-Wolf0002" x="1545" y="503" width="409" height="436" frameX="-15" frameY="0" frameWidth="424" frameHeight="436"/>
+	<SubTexture name="Left-Wolf0003" x="1545" y="503" width="409" height="436" frameX="-15" frameY="0" frameWidth="424" frameHeight="436"/>
+	<SubTexture name="Left-Wolf0004" x="1545" y="503" width="409" height="436" frameX="-15" frameY="0" frameWidth="424" frameHeight="436"/>
+	<SubTexture name="Left-Wolf0005" x="1545" y="503" width="409" height="436" frameX="-15" frameY="0" frameWidth="424" frameHeight="436"/>
+	<SubTexture name="Left-Wolf0006" x="1545" y="503" width="409" height="436" frameX="-15" frameY="0" frameWidth="424" frameHeight="436"/>
+	<SubTexture name="Left-Wolf0007" x="1545" y="503" width="409" height="436" frameX="-15" frameY="0" frameWidth="424" frameHeight="436"/>
+	<SubTexture name="Left-Wolf0008" x="1545" y="503" width="409" height="436" frameX="-15" frameY="0" frameWidth="424" frameHeight="436"/>
+	<SubTexture name="Left-Wolf0009" x="1545" y="503" width="409" height="436" frameX="-15" frameY="0" frameWidth="424" frameHeight="436"/>
+	<SubTexture name="Left-Wolf0010" x="1545" y="503" width="409" height="436" frameX="-15" frameY="0" frameWidth="424" frameHeight="436"/>
+	<SubTexture name="Left-Wolf0011" x="1545" y="503" width="409" height="436" frameX="-15" frameY="0" frameWidth="424" frameHeight="436"/>
+	<SubTexture name="Left-Wolf0012" x="1545" y="503" width="409" height="436" frameX="-15" frameY="0" frameWidth="424" frameHeight="436"/>
+	<SubTexture name="Left-Wolf0013" x="1545" y="503" width="409" height="436" frameX="-15" frameY="0" frameWidth="424" frameHeight="436"/>
+	<SubTexture name="Right-Wolf0000" x="5" y="997" width="355" height="472" frameX="-8" frameY="-1" frameWidth="368" frameHeight="473"/>
+	<SubTexture name="Right-Wolf0001" x="5" y="997" width="355" height="472" frameX="-8" frameY="-1" frameWidth="368" frameHeight="473"/>
+	<SubTexture name="Right-Wolf0002" x="365" y="997" width="368" height="473"/>
+	<SubTexture name="Right-Wolf0003" x="365" y="997" width="368" height="473"/>
+	<SubTexture name="Right-Wolf0004" x="365" y="997" width="368" height="473"/>
+	<SubTexture name="Right-Wolf0005" x="365" y="997" width="368" height="473"/>
+	<SubTexture name="Right-Wolf0006" x="365" y="997" width="368" height="473"/>
+	<SubTexture name="Right-Wolf0007" x="365" y="997" width="368" height="473"/>
+	<SubTexture name="Right-Wolf0008" x="365" y="997" width="368" height="473"/>
+	<SubTexture name="Right-Wolf0009" x="365" y="997" width="368" height="473"/>
+	<SubTexture name="Right-Wolf0010" x="365" y="997" width="368" height="473"/>
+	<SubTexture name="Right-Wolf0011" x="365" y="997" width="368" height="473"/>
+	<SubTexture name="Right-Wolf0012" x="365" y="997" width="368" height="473"/>
+	<SubTexture name="Right-Wolf0013" x="365" y="997" width="368" height="473"/>
+	<SubTexture name="Up-Wolf0000" x="738" y="997" width="383" height="513" frameX="-8" frameY="0" frameWidth="391" frameHeight="517"/>
+	<SubTexture name="Up-Wolf0001" x="738" y="997" width="383" height="513" frameX="-8" frameY="0" frameWidth="391" frameHeight="517"/>
+	<SubTexture name="Up-Wolf0002" x="1126" y="997" width="385" height="508" frameX="0" frameY="-9" frameWidth="391" frameHeight="517"/>
+	<SubTexture name="Up-Wolf0003" x="1126" y="997" width="385" height="508" frameX="0" frameY="-9" frameWidth="391" frameHeight="517"/>
+	<SubTexture name="Up-Wolf0004" x="1126" y="997" width="385" height="508" frameX="0" frameY="-9" frameWidth="391" frameHeight="517"/>
+	<SubTexture name="Up-Wolf0005" x="1126" y="997" width="385" height="508" frameX="0" frameY="-9" frameWidth="391" frameHeight="517"/>
+	<SubTexture name="Up-Wolf0006" x="1126" y="997" width="385" height="508" frameX="0" frameY="-9" frameWidth="391" frameHeight="517"/>
+	<SubTexture name="Up-Wolf0007" x="1126" y="997" width="385" height="508" frameX="0" frameY="-9" frameWidth="391" frameHeight="517"/>
+	<SubTexture name="Up-Wolf0008" x="1126" y="997" width="385" height="508" frameX="0" frameY="-9" frameWidth="391" frameHeight="517"/>
+	<SubTexture name="Up-Wolf0009" x="1126" y="997" width="385" height="508" frameX="0" frameY="-9" frameWidth="391" frameHeight="517"/>
+	<SubTexture name="Up-Wolf0010" x="1126" y="997" width="385" height="508" frameX="0" frameY="-9" frameWidth="391" frameHeight="517"/>
+	<SubTexture name="Up-Wolf0011" x="1126" y="997" width="385" height="508" frameX="0" frameY="-9" frameWidth="391" frameHeight="517"/>
+	<SubTexture name="Up-Wolf0012" x="1126" y="997" width="385" height="508" frameX="0" frameY="-9" frameWidth="391" frameHeight="517"/>
+	<SubTexture name="Up-Wolf0013" x="1126" y="997" width="385" height="508" frameX="0" frameY="-9" frameWidth="391" frameHeight="517"/>
+</TextureAtlas>

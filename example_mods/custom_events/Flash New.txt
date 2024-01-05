@@ -1,0 +1,6 @@
+Basically flash's a white image.
+
+Value 1 is kind of cam
+Value how long the flash lasts
+
+default is CamHUD 0.5

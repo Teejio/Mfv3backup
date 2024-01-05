@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Nene.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Nene instance 10000" x="5" y="5" width="414" height="577" frameX="-1" frameY="-6" frameWidth="427" frameHeight="583"/>
+	<SubTexture name="Nene instance 10001" x="5" y="5" width="414" height="577" frameX="-1" frameY="-6" frameWidth="427" frameHeight="583"/>
+	<SubTexture name="Nene instance 10002" x="424" y="5" width="419" height="577" frameX="0" frameY="-6" frameWidth="427" frameHeight="583"/>
+	<SubTexture name="Nene instance 10003" x="424" y="5" width="419" height="577" frameX="0" frameY="-6" frameWidth="427" frameHeight="583"/>
+	<SubTexture name="Nene instance 10004" x="848" y="5" width="424" height="581" frameX="0" frameY="-2" frameWidth="427" frameHeight="583"/>
+	<SubTexture name="Nene instance 10005" x="848" y="5" width="424" height="581" frameX="0" frameY="-2" frameWidth="427" frameHeight="583"/>
+	<SubTexture name="Nene instance 10006" x="1277" y="5" width="427" height="583"/>
+	<SubTexture name="Nene instance 10007" x="1277" y="5" width="427" height="583"/>
+	<SubTexture name="Nene instance 10008" x="5" y="593" width="425" height="582" frameX="0" frameY="-1" frameWidth="427" frameHeight="583"/>
+	<SubTexture name="Nene instance 10009" x="5" y="593" width="425" height="582" frameX="0" frameY="-1" frameWidth="427" frameHeight="583"/>
+	<SubTexture name="Nene instance 10010" x="5" y="593" width="425" height="582" frameX="0" frameY="-1" frameWidth="427" frameHeight="583"/>
+	<SubTexture name="Nene instance 10011" x="5" y="593" width="425" height="582" frameX="0" frameY="-1" frameWidth="427" frameHeight="583"/>
+	<SubTexture name="Nene instance 10012" x="5" y="593" width="425" height="582" frameX="0" frameY="-1" frameWidth="427" frameHeight="583"/>
+	<SubTexture name="Nene instance 10013" x="5" y="593" width="425" height="582" frameX="0" frameY="-1" frameWidth="427" frameHeight="583"/>
+</TextureAtlas>

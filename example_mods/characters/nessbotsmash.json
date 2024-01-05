@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				85,
+				-190
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "nessbot idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				42,
+				-251
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "nessbot down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				79,
+				-144
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "nessbot up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-97,
+				-161
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "nessbot left"
+		},
+		{
+			"offsets": [
+				44,
+				-159
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "nessbot right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/nessrobo",
+	"position": [
+		-60,
+		0
+	],
+	"healthicon": "ness",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		85,
+		85
+	],
+	"camera_position": [
+		-110,
+		-10
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

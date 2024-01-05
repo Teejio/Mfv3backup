@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Paula-Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				125,
+				-11
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Paula-Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-68,
+				-37
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Paula-Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				39
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Paula-Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-42
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Paula-Down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Paula",
+	"position": [
+		0,
+		20
+	],
+	"healthicon": "Paula",
+	"flip_x": false,
+	"healthbar_colors": [
+		235,
+		240,
+		100
+	],
+	"camera_position": [
+		50,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

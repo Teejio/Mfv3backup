@@ -1,0 +1,4 @@
+Do the black characters white bg 
+
+Value 1: 'a' to activate, 'b' to deactivate
+Value 2: Fade In/Out time

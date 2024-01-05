@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="BGencounter.png" width="1173" height="2196">
+  <SubTexture name="intro0000.png" x="3" y="3"  width="385" height="360" frameX="-0" frameY="-0" frameWidth="385" frameHeight="360"/>
+  <SubTexture name="intro0002.png" x="394" y="3"  width="385" height="360" frameX="-0" frameY="-0" frameWidth="385" frameHeight="360"/>
+  <SubTexture name="intro0003.png" x="785" y="3"  width="385" height="360" frameX="-0" frameY="-0" frameWidth="385" frameHeight="360"/>
+  <SubTexture name="intro0004.png" x="3" y="369"  width="385" height="360" frameX="-0" frameY="-0" frameWidth="385" frameHeight="360"/>
+  <SubTexture name="intro0005.png" x="394" y="369"  width="385" height="360" frameX="-0" frameY="-0" frameWidth="385" frameHeight="360"/>
+  <SubTexture name="intro0006.png" x="785" y="369"  width="385" height="360" frameX="-0" frameY="-0" frameWidth="385" frameHeight="360"/>
+  <SubTexture name="intro0007.png" x="3" y="735"  width="385" height="360" frameX="-0" frameY="-0" frameWidth="385" frameHeight="360"/>
+  <SubTexture name="intro0008.png" x="394" y="735"  width="385" height="360" frameX="-0" frameY="-0" frameWidth="385" frameHeight="360"/>
+  <SubTexture name="intro0009.png" x="785" y="735"  width="385" height="360" frameX="-0" frameY="-0" frameWidth="385" frameHeight="360"/>
+  <SubTexture name="intro0010.png" x="3" y="1101"  width="385" height="360" frameX="-0" frameY="-0" frameWidth="385" frameHeight="360"/>
+  <SubTexture name="intro0011.png" x="3" y="1467"  width="385" height="360" frameX="-0" frameY="-0" frameWidth="385" frameHeight="360"/>
+  <SubTexture name="intro0012.png" x="3" y="1833"  width="385" height="360" frameX="-0" frameY="-0" frameWidth="385" frameHeight="360"/>
+  <SubTexture name="intro0013.png" x="394" y="1101"  width="385" height="360" frameX="-0" frameY="-0" frameWidth="385" frameHeight="360"/>
+  <SubTexture name="intro0014.png" x="785" y="1101"  width="385" height="360" frameX="-0" frameY="-0" frameWidth="385" frameHeight="360"/>
+  <SubTexture name="intro0015.png" x="394" y="1467"  width="385" height="360" frameX="-0" frameY="-0" frameWidth="385" frameHeight="360"/>
+  <SubTexture name="intro0016.png" x="394" y="1833"  width="385" height="360" frameX="-0" frameY="-0" frameWidth="385" frameHeight="360"/>
+  <SubTexture name="intro0001.png" x="785" y="1467"  width="385" height="204.5" frameX="-0" frameY="-0" frameWidth="385" frameHeight="360"/>
+</TextureAtlas>

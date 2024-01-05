@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ninten_assets.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Ninten_down0000" x="0" y="0" width="540" height="624" frameX="0" frameY="-5" frameWidth="540" frameHeight="629"/>
+	<SubTexture name="Ninten_down0001" x="0" y="0" width="540" height="624" frameX="0" frameY="-5" frameWidth="540" frameHeight="629"/>
+	<SubTexture name="Ninten_down0002" x="540" y="0" width="528" height="628" frameX="-7" frameY="0" frameWidth="540" frameHeight="629"/>
+	<SubTexture name="Ninten_down0003" x="540" y="0" width="528" height="628" frameX="-7" frameY="0" frameWidth="540" frameHeight="629"/>
+	<SubTexture name="Ninten_down0004" x="540" y="0" width="528" height="628" frameX="-7" frameY="0" frameWidth="540" frameHeight="629"/>
+	<SubTexture name="Ninten_down0005" x="540" y="0" width="528" height="628" frameX="-7" frameY="0" frameWidth="540" frameHeight="629"/>
+	<SubTexture name="Ninten_down0006" x="540" y="0" width="528" height="628" frameX="-7" frameY="0" frameWidth="540" frameHeight="629"/>
+	<SubTexture name="Ninten_down0007" x="540" y="0" width="528" height="628" frameX="-7" frameY="0" frameWidth="540" frameHeight="629"/>
+	<SubTexture name="Ninten_down0008" x="540" y="0" width="528" height="628" frameX="-7" frameY="0" frameWidth="540" frameHeight="629"/>
+	<SubTexture name="Ninten_down0009" x="540" y="0" width="528" height="628" frameX="-7" frameY="0" frameWidth="540" frameHeight="629"/>
+	<SubTexture name="Ninten_down0010" x="540" y="0" width="528" height="628" frameX="-7" frameY="0" frameWidth="540" frameHeight="629"/>
+	<SubTexture name="Ninten_down0011" x="540" y="0" width="528" height="628" frameX="-7" frameY="0" frameWidth="540" frameHeight="629"/>
+	<SubTexture name="Ninten_down0012" x="540" y="0" width="528" height="628" frameX="-7" frameY="0" frameWidth="540" frameHeight="629"/>
+	<SubTexture name="Ninten_down0013" x="540" y="0" width="528" height="628" frameX="-7" frameY="0" frameWidth="540" frameHeight="629"/>
+	<SubTexture name="Ninten_down0014" x="540" y="0" width="528" height="628" frameX="-7" frameY="0" frameWidth="540" frameHeight="629"/>
+	<SubTexture name="Ninten_idle0000" x="1068" y="0" width="429" height="698" frameX="0" frameY="-10" frameWidth="432" frameHeight="709"/>
+	<SubTexture name="Ninten_idle0001" x="1068" y="0" width="429" height="698" frameX="0" frameY="-10" frameWidth="432" frameHeight="709"/>
+	<SubTexture name="Ninten_idle0002" x="1497" y="0" width="432" height="699" frameX="0" frameY="-10" frameWidth="432" frameHeight="709"/>
+	<SubTexture name="Ninten_idle0003" x="1497" y="0" width="432" height="699" frameX="0" frameY="-10" frameWidth="432" frameHeight="709"/>
+	<SubTexture name="Ninten_idle0004" x="1929" y="0" width="428" height="708" frameX="-3" frameY="0" frameWidth="432" frameHeight="709"/>
+	<SubTexture name="Ninten_idle0005" x="1929" y="0" width="428" height="708" frameX="-3" frameY="0" frameWidth="432" frameHeight="709"/>
+	<SubTexture name="Ninten_idle0006" x="2357" y="0" width="423" height="707" frameX="-3" frameY="-1" frameWidth="432" frameHeight="709"/>
+	<SubTexture name="Ninten_idle0007" x="2357" y="0" width="423" height="707" frameX="-3" frameY="-1" frameWidth="432" frameHeight="709"/>
+	<SubTexture name="Ninten_idle0008" x="2780" y="0" width="423" height="706" frameX="-3" frameY="-2" frameWidth="432" frameHeight="709"/>
+	<SubTexture name="Ninten_idle0009" x="2780" y="0" width="423" height="706" frameX="-3" frameY="-2" frameWidth="432" frameHeight="709"/>
+	<SubTexture name="Ninten_idle0010" x="2780" y="0" width="423" height="706" frameX="-3" frameY="-2" frameWidth="432" frameHeight="709"/>
+	<SubTexture name="Ninten_idle0011" x="2780" y="0" width="423" height="706" frameX="-3" frameY="-2" frameWidth="432" frameHeight="709"/>
+	<SubTexture name="Ninten_idle0012" x="2780" y="0" width="423" height="706" frameX="-3" frameY="-2" frameWidth="432" frameHeight="709"/>
+	<SubTexture name="Ninten_idle0013" x="2780" y="0" width="423" height="706" frameX="-3" frameY="-2" frameWidth="432" frameHeight="709"/>
+	<SubTexture name="Ninten_idle0014" x="2780" y="0" width="423" height="706" frameX="-3" frameY="-2" frameWidth="432" frameHeight="709"/>
+	<SubTexture name="Ninten_left0000" x="0" y="708" width="500" height="682"/>
+	<SubTexture name="Ninten_left0001" x="0" y="708" width="500" height="682"/>
+	<SubTexture name="Ninten_left0002" x="500" y="708" width="486" height="682" frameX="-14" frameY="0" frameWidth="500" frameHeight="682"/>
+	<SubTexture name="Ninten_left0003" x="500" y="708" width="486" height="682" frameX="-14" frameY="0" frameWidth="500" frameHeight="682"/>
+	<SubTexture name="Ninten_left0004" x="500" y="708" width="486" height="682" frameX="-14" frameY="0" frameWidth="500" frameHeight="682"/>
+	<SubTexture name="Ninten_left0005" x="500" y="708" width="486" height="682" frameX="-14" frameY="0" frameWidth="500" frameHeight="682"/>
+	<SubTexture name="Ninten_left0006" x="500" y="708" width="486" height="682" frameX="-14" frameY="0" frameWidth="500" frameHeight="682"/>
+	<SubTexture name="Ninten_left0007" x="500" y="708" width="486" height="682" frameX="-14" frameY="0" frameWidth="500" frameHeight="682"/>
+	<SubTexture name="Ninten_left0008" x="500" y="708" width="486" height="682" frameX="-14" frameY="0" frameWidth="500" frameHeight="682"/>
+	<SubTexture name="Ninten_left0009" x="500" y="708" width="486" height="682" frameX="-14" frameY="0" frameWidth="500" frameHeight="682"/>
+	<SubTexture name="Ninten_left0010" x="500" y="708" width="486" height="682" frameX="-14" frameY="0" frameWidth="500" frameHeight="682"/>
+	<SubTexture name="Ninten_left0011" x="500" y="708" width="486" height="682" frameX="-14" frameY="0" frameWidth="500" frameHeight="682"/>
+	<SubTexture name="Ninten_left0012" x="500" y="708" width="486" height="682" frameX="-14" frameY="0" frameWidth="500" frameHeight="682"/>
+	<SubTexture name="Ninten_left0013" x="500" y="708" width="486" height="682" frameX="-14" frameY="0" frameWidth="500" frameHeight="682"/>
+	<SubTexture name="Ninten_left0014" x="500" y="708" width="486" height="682" frameX="-14" frameY="0" frameWidth="500" frameHeight="682"/>
+	<SubTexture name="Ninten_right0000" x="986" y="708" width="555" height="679"/>
+	<SubTexture name="Ninten_right0001" x="986" y="708" width="555" height="679"/>
+	<SubTexture name="Ninten_right0002" x="1541" y="708" width="543" height="679" frameX="0" frameY="0" frameWidth="555" frameHeight="679"/>
+	<SubTexture name="Ninten_right0003" x="1541" y="708" width="543" height="679" frameX="0" frameY="0" frameWidth="555" frameHeight="679"/>
+	<SubTexture name="Ninten_right0004" x="1541" y="708" width="543" height="679" frameX="0" frameY="0" frameWidth="555" frameHeight="679"/>
+	<SubTexture name="Ninten_right0005" x="1541" y="708" width="543" height="679" frameX="0" frameY="0" frameWidth="555" frameHeight="679"/>
+	<SubTexture name="Ninten_right0006" x="1541" y="708" width="543" height="679" frameX="0" frameY="0" frameWidth="555" frameHeight="679"/>
+	<SubTexture name="Ninten_right0007" x="1541" y="708" width="543" height="679" frameX="0" frameY="0" frameWidth="555" frameHeight="679"/>
+	<SubTexture name="Ninten_right0008" x="1541" y="708" width="543" height="679" frameX="0" frameY="0" frameWidth="555" frameHeight="679"/>
+	<SubTexture name="Ninten_right0009" x="1541" y="708" width="543" height="679" frameX="0" frameY="0" frameWidth="555" frameHeight="679"/>
+	<SubTexture name="Ninten_right0010" x="1541" y="708" width="543" height="679" frameX="0" frameY="0" frameWidth="555" frameHeight="679"/>
+	<SubTexture name="Ninten_right0011" x="1541" y="708" width="543" height="679" frameX="0" frameY="0" frameWidth="555" frameHeight="679"/>
+	<SubTexture name="Ninten_right0012" x="1541" y="708" width="543" height="679" frameX="0" frameY="0" frameWidth="555" frameHeight="679"/>
+	<SubTexture name="Ninten_right0013" x="1541" y="708" width="543" height="679" frameX="0" frameY="0" frameWidth="555" frameHeight="679"/>
+	<SubTexture name="Ninten_right0014" x="1541" y="708" width="543" height="679" frameX="0" frameY="0" frameWidth="555" frameHeight="679"/>
+	<SubTexture name="Ninten_up0000" x="2084" y="708" width="465" height="730" frameX="-3" frameY="0" frameWidth="470" frameHeight="730"/>
+	<SubTexture name="Ninten_up0001" x="2084" y="708" width="465" height="730" frameX="-3" frameY="0" frameWidth="470" frameHeight="730"/>
+	<SubTexture name="Ninten_up0002" x="2549" y="708" width="470" height="723" frameX="0" frameY="-7" frameWidth="470" frameHeight="730"/>
+	<SubTexture name="Ninten_up0003" x="2549" y="708" width="470" height="723" frameX="0" frameY="-7" frameWidth="470" frameHeight="730"/>
+	<SubTexture name="Ninten_up0004" x="3019" y="708" width="470" height="725" frameX="0" frameY="-5" frameWidth="470" frameHeight="730"/>
+	<SubTexture name="Ninten_up0005" x="3019" y="708" width="470" height="725" frameX="0" frameY="-5" frameWidth="470" frameHeight="730"/>
+	<SubTexture name="Ninten_up0006" x="3019" y="708" width="470" height="725" frameX="0" frameY="-5" frameWidth="470" frameHeight="730"/>
+	<SubTexture name="Ninten_up0007" x="3019" y="708" width="470" height="725" frameX="0" frameY="-5" frameWidth="470" frameHeight="730"/>
+	<SubTexture name="Ninten_up0008" x="3019" y="708" width="470" height="725" frameX="0" frameY="-5" frameWidth="470" frameHeight="730"/>
+	<SubTexture name="Ninten_up0009" x="3019" y="708" width="470" height="725" frameX="0" frameY="-5" frameWidth="470" frameHeight="730"/>
+	<SubTexture name="Ninten_up0010" x="3019" y="708" width="470" height="725" frameX="0" frameY="-5" frameWidth="470" frameHeight="730"/>
+	<SubTexture name="Ninten_up0011" x="3019" y="708" width="470" height="725" frameX="0" frameY="-5" frameWidth="470" frameHeight="730"/>
+	<SubTexture name="Ninten_up0012" x="3019" y="708" width="470" height="725" frameX="0" frameY="-5" frameWidth="470" frameHeight="730"/>
+	<SubTexture name="Ninten_up0013" x="3019" y="708" width="470" height="725" frameX="0" frameY="-5" frameWidth="470" frameHeight="730"/>
+	<SubTexture name="Ninten_up0014" x="3019" y="708" width="470" height="725" frameX="0" frameY="-5" frameWidth="470" frameHeight="730"/>
+</TextureAtlas>

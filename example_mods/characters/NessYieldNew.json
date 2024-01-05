@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				7
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle-Ness",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				4
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right-Ness",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				79,
+				67
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up-Ness",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				29
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down-Ness",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				104,
+				5
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left-Ness",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				23,
+				-16
+			],
+			"anim": "ninja",
+			"fps": 24,
+			"name": "Heal-Ness",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				181,
+				92
+			],
+			"anim": "bonk",
+			"fps": 24,
+			"name": "Bash-Ness",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/NessYield",
+	"position": [
+		50,
+		160
+	],
+	"healthicon": "ness",
+	"flip_x": true,
+	"healthbar_colors": [
+		234,
+		49,
+		49
+	],
+	"camera_position": [
+		60,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

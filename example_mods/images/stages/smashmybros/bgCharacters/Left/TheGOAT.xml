@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TheGOAT.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Pico0000" x="5" y="5" width="263" height="308" frameX="-6" frameY="0" frameWidth="272" frameHeight="308"/>
+	<SubTexture name="Pico0001" x="273" y="5" width="267" height="308" frameX="0" frameY="0" frameWidth="272" frameHeight="308"/>
+	<SubTexture name="Pico0002" x="273" y="5" width="267" height="308" frameX="0" frameY="0" frameWidth="272" frameHeight="308"/>
+	<SubTexture name="Pico0003" x="545" y="5" width="268" height="300" frameX="-4" frameY="-8" frameWidth="272" frameHeight="308"/>
+	<SubTexture name="Pico0004" x="545" y="5" width="268" height="300" frameX="-4" frameY="-8" frameWidth="272" frameHeight="308"/>
+	<SubTexture name="Pico0005" x="5" y="318" width="263" height="303" frameX="-6" frameY="-5" frameWidth="272" frameHeight="308"/>
+	<SubTexture name="Pico0006" x="5" y="318" width="263" height="303" frameX="-6" frameY="-5" frameWidth="272" frameHeight="308"/>
+	<SubTexture name="Pico0007" x="273" y="318" width="263" height="306" frameX="-6" frameY="-2" frameWidth="272" frameHeight="308"/>
+	<SubTexture name="Pico0008" x="273" y="318" width="263" height="306" frameX="-6" frameY="-2" frameWidth="272" frameHeight="308"/>
+	<SubTexture name="Pico0009" x="5" y="5" width="263" height="308" frameX="-6" frameY="0" frameWidth="272" frameHeight="308"/>
+	<SubTexture name="Pico0010" x="5" y="5" width="263" height="308" frameX="-6" frameY="0" frameWidth="272" frameHeight="308"/>
+	<SubTexture name="Pico0011" x="5" y="5" width="263" height="308" frameX="-6" frameY="0" frameWidth="272" frameHeight="308"/>
+	<SubTexture name="Pico0012" x="5" y="5" width="263" height="308" frameX="-6" frameY="0" frameWidth="272" frameHeight="308"/>
+	<SubTexture name="Pico0013" x="5" y="5" width="263" height="308" frameX="-6" frameY="0" frameWidth="272" frameHeight="308"/>
+</TextureAtlas>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Do.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Ninten0000" x="5" y="5" width="223" height="368" frameX="-2" frameY="-3" frameWidth="228" frameHeight="371"/>
+	<SubTexture name="Ninten0001" x="233" y="5" width="223" height="371" frameX="-2" frameY="0" frameWidth="228" frameHeight="371"/>
+	<SubTexture name="Ninten0002" x="233" y="5" width="223" height="371" frameX="-2" frameY="0" frameWidth="228" frameHeight="371"/>
+	<SubTexture name="Ninten0003" x="461" y="5" width="228" height="355" frameX="0" frameY="-16" frameWidth="228" frameHeight="371"/>
+	<SubTexture name="Ninten0004" x="461" y="5" width="228" height="355" frameX="0" frameY="-16" frameWidth="228" frameHeight="371"/>
+	<SubTexture name="Ninten0005" x="694" y="5" width="223" height="358" frameX="-2" frameY="-13" frameWidth="228" frameHeight="371"/>
+	<SubTexture name="Ninten0006" x="694" y="5" width="223" height="358" frameX="-2" frameY="-13" frameWidth="228" frameHeight="371"/>
+	<SubTexture name="Ninten0007" x="5" y="381" width="223" height="366" frameX="-2" frameY="-5" frameWidth="228" frameHeight="371"/>
+	<SubTexture name="Ninten0008" x="5" y="381" width="223" height="366" frameX="-2" frameY="-5" frameWidth="228" frameHeight="371"/>
+	<SubTexture name="Ninten0009" x="5" y="5" width="223" height="368" frameX="-2" frameY="-3" frameWidth="228" frameHeight="371"/>
+	<SubTexture name="Ninten0010" x="5" y="5" width="223" height="368" frameX="-2" frameY="-3" frameWidth="228" frameHeight="371"/>
+	<SubTexture name="Ninten0011" x="5" y="5" width="223" height="368" frameX="-2" frameY="-3" frameWidth="228" frameHeight="371"/>
+	<SubTexture name="Ninten0012" x="5" y="5" width="223" height="368" frameX="-2" frameY="-3" frameWidth="228" frameHeight="371"/>
+	<SubTexture name="Ninten0013" x="5" y="5" width="223" height="368" frameX="-2" frameY="-3" frameWidth="228" frameHeight="371"/>
+</TextureAtlas>

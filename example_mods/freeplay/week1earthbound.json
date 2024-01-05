@@ -1,0 +1,12 @@
+{
+	"cartridgeName": "EarthBound",
+	"songs":[
+		["Rockin", "ness", "bf"],
+        ["Checksum", "glitch", "ness"],
+		["Dakota!", "saturn", "ness"],
+		["Yield", "ness" , "face"]
+
+    ],
+	"weekName": "Mother2Songs",
+	"hintText": "Beat Rockin in Story Mode"
+}

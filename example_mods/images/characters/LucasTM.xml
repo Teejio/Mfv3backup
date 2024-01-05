@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Lucas.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Down-Lucas0000" x="5" y="5" width="226" height="380" frameX="0" frameY="-2" frameWidth="226" frameHeight="382"/>
+	<SubTexture name="Down-Lucas0001" x="5" y="5" width="226" height="380" frameX="0" frameY="-2" frameWidth="226" frameHeight="382"/>
+	<SubTexture name="Down-Lucas0002" x="236" y="5" width="212" height="382" frameX="-8" frameY="0" frameWidth="226" frameHeight="382"/>
+	<SubTexture name="Down-Lucas0003" x="236" y="5" width="212" height="382" frameX="-8" frameY="0" frameWidth="226" frameHeight="382"/>
+	<SubTexture name="Down-Lucas0004" x="236" y="5" width="212" height="382" frameX="-8" frameY="0" frameWidth="226" frameHeight="382"/>
+	<SubTexture name="Down-Lucas0005" x="236" y="5" width="212" height="382" frameX="-8" frameY="0" frameWidth="226" frameHeight="382"/>
+	<SubTexture name="Down-Lucas0006" x="236" y="5" width="212" height="382" frameX="-8" frameY="0" frameWidth="226" frameHeight="382"/>
+	<SubTexture name="Down-Lucas0007" x="236" y="5" width="212" height="382" frameX="-8" frameY="0" frameWidth="226" frameHeight="382"/>
+	<SubTexture name="Down-Lucas0008" x="236" y="5" width="212" height="382" frameX="-8" frameY="0" frameWidth="226" frameHeight="382"/>
+	<SubTexture name="Down-Lucas0009" x="236" y="5" width="212" height="382" frameX="-8" frameY="0" frameWidth="226" frameHeight="382"/>
+	<SubTexture name="Down-Lucas0010" x="236" y="5" width="212" height="382" frameX="-8" frameY="0" frameWidth="226" frameHeight="382"/>
+	<SubTexture name="Down-Lucas0011" x="236" y="5" width="212" height="382" frameX="-8" frameY="0" frameWidth="226" frameHeight="382"/>
+	<SubTexture name="Down-Lucas0012" x="236" y="5" width="212" height="382" frameX="-8" frameY="0" frameWidth="226" frameHeight="382"/>
+	<SubTexture name="Down-Lucas0013" x="236" y="5" width="212" height="382" frameX="-8" frameY="0" frameWidth="226" frameHeight="382"/>
+	<SubTexture name="Idle-Lucas0000" x="453" y="5" width="195" height="370" frameX="-17" frameY="-3" frameWidth="218" frameHeight="373"/>
+	<SubTexture name="Idle-Lucas0001" x="653" y="5" width="194" height="367" frameX="-24" frameY="-6" frameWidth="218" frameHeight="373"/>
+	<SubTexture name="Idle-Lucas0002" x="653" y="5" width="194" height="367" frameX="-24" frameY="-6" frameWidth="218" frameHeight="373"/>
+	<SubTexture name="Idle-Lucas0003" x="852" y="5" width="201" height="370" frameX="0" frameY="-3" frameWidth="218" frameHeight="373"/>
+	<SubTexture name="Idle-Lucas0004" x="852" y="5" width="201" height="370" frameX="0" frameY="-3" frameWidth="218" frameHeight="373"/>
+	<SubTexture name="Idle-Lucas0005" x="1058" y="5" width="197" height="370" frameX="-9" frameY="-3" frameWidth="218" frameHeight="373"/>
+	<SubTexture name="Idle-Lucas0006" x="1058" y="5" width="197" height="370" frameX="-9" frameY="-3" frameWidth="218" frameHeight="373"/>
+	<SubTexture name="Idle-Lucas0007" x="1260" y="5" width="196" height="373" frameX="-13" frameY="0" frameWidth="218" frameHeight="373"/>
+	<SubTexture name="Idle-Lucas0008" x="1260" y="5" width="196" height="373" frameX="-13" frameY="0" frameWidth="218" frameHeight="373"/>
+	<SubTexture name="Idle-Lucas0009" x="1461" y="5" width="195" height="371" frameX="-16" frameY="-2" frameWidth="218" frameHeight="373"/>
+	<SubTexture name="Idle-Lucas0010" x="1461" y="5" width="195" height="371" frameX="-16" frameY="-2" frameWidth="218" frameHeight="373"/>
+	<SubTexture name="Idle-Lucas0011" x="453" y="5" width="195" height="370" frameX="-17" frameY="-3" frameWidth="218" frameHeight="373"/>
+	<SubTexture name="Idle-Lucas0012" x="453" y="5" width="195" height="370" frameX="-17" frameY="-3" frameWidth="218" frameHeight="373"/>
+	<SubTexture name="Idle-Lucas0013" x="453" y="5" width="195" height="370" frameX="-17" frameY="-3" frameWidth="218" frameHeight="373"/>
+	<SubTexture name="Left-Lucas0000" x="1661" y="5" width="268" height="363" frameX="0" frameY="-9" frameWidth="270" frameHeight="372"/>
+	<SubTexture name="Left-Lucas0001" x="1661" y="5" width="268" height="363" frameX="0" frameY="-9" frameWidth="270" frameHeight="372"/>
+	<SubTexture name="Left-Lucas0002" x="5" y="392" width="260" height="372" frameX="-10" frameY="0" frameWidth="270" frameHeight="372"/>
+	<SubTexture name="Left-Lucas0003" x="5" y="392" width="260" height="372" frameX="-10" frameY="0" frameWidth="270" frameHeight="372"/>
+	<SubTexture name="Left-Lucas0004" x="5" y="392" width="260" height="372" frameX="-10" frameY="0" frameWidth="270" frameHeight="372"/>
+	<SubTexture name="Left-Lucas0005" x="5" y="392" width="260" height="372" frameX="-10" frameY="0" frameWidth="270" frameHeight="372"/>
+	<SubTexture name="Left-Lucas0006" x="5" y="392" width="260" height="372" frameX="-10" frameY="0" frameWidth="270" frameHeight="372"/>
+	<SubTexture name="Left-Lucas0007" x="5" y="392" width="260" height="372" frameX="-10" frameY="0" frameWidth="270" frameHeight="372"/>
+	<SubTexture name="Left-Lucas0008" x="5" y="392" width="260" height="372" frameX="-10" frameY="0" frameWidth="270" frameHeight="372"/>
+	<SubTexture name="Left-Lucas0009" x="5" y="392" width="260" height="372" frameX="-10" frameY="0" frameWidth="270" frameHeight="372"/>
+	<SubTexture name="Left-Lucas0010" x="5" y="392" width="260" height="372" frameX="-10" frameY="0" frameWidth="270" frameHeight="372"/>
+	<SubTexture name="Left-Lucas0011" x="5" y="392" width="260" height="372" frameX="-10" frameY="0" frameWidth="270" frameHeight="372"/>
+	<SubTexture name="Left-Lucas0012" x="5" y="392" width="260" height="372" frameX="-10" frameY="0" frameWidth="270" frameHeight="372"/>
+	<SubTexture name="Left-Lucas0013" x="5" y="392" width="260" height="372" frameX="-10" frameY="0" frameWidth="270" frameHeight="372"/>
+	<SubTexture name="Right-Lucas0000" x="270" y="392" width="197" height="374" frameX="-5" frameY="0" frameWidth="202" frameHeight="374"/>
+	<SubTexture name="Right-Lucas0001" x="270" y="392" width="197" height="374" frameX="-5" frameY="0" frameWidth="202" frameHeight="374"/>
+	<SubTexture name="Right-Lucas0002" x="472" y="392" width="195" height="370" frameX="0" frameY="-4" frameWidth="202" frameHeight="374"/>
+	<SubTexture name="Right-Lucas0003" x="472" y="392" width="195" height="370" frameX="0" frameY="-4" frameWidth="202" frameHeight="374"/>
+	<SubTexture name="Right-Lucas0004" x="472" y="392" width="195" height="370" frameX="0" frameY="-4" frameWidth="202" frameHeight="374"/>
+	<SubTexture name="Right-Lucas0005" x="472" y="392" width="195" height="370" frameX="0" frameY="-4" frameWidth="202" frameHeight="374"/>
+	<SubTexture name="Right-Lucas0006" x="472" y="392" width="195" height="370" frameX="0" frameY="-4" frameWidth="202" frameHeight="374"/>
+	<SubTexture name="Right-Lucas0007" x="472" y="392" width="195" height="370" frameX="0" frameY="-4" frameWidth="202" frameHeight="374"/>
+	<SubTexture name="Right-Lucas0008" x="472" y="392" width="195" height="370" frameX="0" frameY="-4" frameWidth="202" frameHeight="374"/>
+	<SubTexture name="Right-Lucas0009" x="472" y="392" width="195" height="370" frameX="0" frameY="-4" frameWidth="202" frameHeight="374"/>
+	<SubTexture name="Right-Lucas0010" x="472" y="392" width="195" height="370" frameX="0" frameY="-4" frameWidth="202" frameHeight="374"/>
+	<SubTexture name="Right-Lucas0011" x="472" y="392" width="195" height="370" frameX="0" frameY="-4" frameWidth="202" frameHeight="374"/>
+	<SubTexture name="Right-Lucas0012" x="472" y="392" width="195" height="370" frameX="0" frameY="-4" frameWidth="202" frameHeight="374"/>
+	<SubTexture name="Right-Lucas0013" x="472" y="392" width="195" height="370" frameX="0" frameY="-4" frameWidth="202" frameHeight="374"/>
+	<SubTexture name="Up-Lucas0000" x="672" y="392" width="255" height="366" frameX="-4" frameY="0" frameWidth="263" frameHeight="366"/>
+	<SubTexture name="Up-Lucas0001" x="672" y="392" width="255" height="366" frameX="-4" frameY="0" frameWidth="263" frameHeight="366"/>
+	<SubTexture name="Up-Lucas0002" x="932" y="392" width="263" height="366"/>
+	<SubTexture name="Up-Lucas0003" x="932" y="392" width="263" height="366"/>
+	<SubTexture name="Up-Lucas0004" x="932" y="392" width="263" height="366"/>
+	<SubTexture name="Up-Lucas0005" x="932" y="392" width="263" height="366"/>
+	<SubTexture name="Up-Lucas0006" x="932" y="392" width="263" height="366"/>
+	<SubTexture name="Up-Lucas0007" x="932" y="392" width="263" height="366"/>
+	<SubTexture name="Up-Lucas0008" x="932" y="392" width="263" height="366"/>
+	<SubTexture name="Up-Lucas0009" x="932" y="392" width="263" height="366"/>
+	<SubTexture name="Up-Lucas0010" x="932" y="392" width="263" height="366"/>
+	<SubTexture name="Up-Lucas0011" x="932" y="392" width="263" height="366"/>
+	<SubTexture name="Up-Lucas0012" x="932" y="392" width="263" height="366"/>
+	<SubTexture name="Up-Lucas0013" x="932" y="392" width="263" height="366"/>
+</TextureAtlas>

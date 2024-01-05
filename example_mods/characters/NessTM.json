@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-30,
+				-63
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle-NessTM"
+		},
+		{
+			"offsets": [
+				-20,
+				-92
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down-NessTM"
+		},
+		{
+			"offsets": [
+				-2,
+				-61
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left-NessTM"
+		},
+		{
+			"offsets": [
+				93,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right-NessTM"
+		},
+		{
+			"offsets": [
+				-61,
+				-23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up-NessTM"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-90
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Down-Miss-NessTM",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-60
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Left-Miss-NessTM",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				93,
+				4
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Right-Miss-NessTM",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-61,
+				-5
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Up-Miss-NessTM",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				48
+			],
+			"anim": "singUP-alt",
+			"fps": 28,
+			"name": "Fire-NessTM",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				23,
+				-30
+			],
+			"anim": "singDOWN-alt",
+			"fps": 30,
+			"name": "Thunder-NessTM",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				228,
+				71
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 30,
+			"name": "Flash-NessTM",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/nessTM",
+	"position": [
+		100,
+		320
+	],
+	"healthicon": "nessTM",
+	"flip_x": true,
+	"healthbar_colors": [
+		220,
+		0,
+		0
+	],
+	"camera_position": [
+		20,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

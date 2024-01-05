@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "vinny idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				45,
+				-13
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "vinny left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				-56
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "vinny down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-51,
+				31
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "vinny up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-73,
+				-4
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "vinny right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				44,
+				-14
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "vinny left MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				-57
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "vinny down MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-54,
+				31
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "vinny up MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-77,
+				-4
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "vinny right MISS",
+			"indices": []
+		},
+		{
+			"offsets": [
+				71,
+				61
+			],
+			"indices": [],
+			"fps": 48,
+			"anim": "shriek",
+			"loop": true,
+			"name": "vinny shriek"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/booty",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "vinny",
+	"flip_x": true,
+	"healthbar_colors": [
+		40,
+		195,
+		137
+	],
+	"camera_position": [
+		400,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

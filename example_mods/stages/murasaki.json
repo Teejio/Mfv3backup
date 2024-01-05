@@ -1,0 +1,23 @@
+{
+	"directory": "",
+	"defaultZoom": 0.75,
+	"isPixelStage": true,
+	"bfColor": "lucas",
+	"dadColor": "bf",
+	"hide_girlfriend": true,
+
+	"boyfriend": [100, 100],
+	"girlfriend": [400, 130],
+	"opponent": [0, 0],
+
+	"camMove": {
+		"boyfriend": {
+		  "range": [45, 35],
+		  "active": false
+		},
+		"dad": {
+		  "range": [45, 45],
+		  "active": false
+		}
+	}
+}

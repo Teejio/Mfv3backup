@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Ninten_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				81,
+				-63
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Ninten_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				45,
+				12
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Ninten_up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				111,
+				-15
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Ninten_right"
+		},
+		{
+			"offsets": [
+				-44,
+				-12
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Ninten_left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ninten_assets",
+	"position": [
+		150,
+		50
+	],
+	"healthicon": "nin",
+	"flip_x": false,
+	"healthbar_colors": [
+		133,
+		101,
+		193
+	],
+	"camera_position": [
+		-140,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

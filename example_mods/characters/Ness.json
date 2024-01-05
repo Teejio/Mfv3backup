@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				64,
+				-54
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "NEWNESS idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				119,
+				-46
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "NEWNESS left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				-51
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "NEWNESS right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				143,
+				-89
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "NEWNESS down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				55,
+				-22
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "NEWNESS up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/nessassets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Ness",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		85,
+		85
+	],
+	"camera_position": [
+		0,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

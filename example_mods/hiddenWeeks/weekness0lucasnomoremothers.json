@@ -1,0 +1,33 @@
+{
+	"storyName": "Lucas",
+	"difficulties": "",
+	"weekBackground": "stage",
+	"hideFreeplay": true,
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"gameType": "Mother3",
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"mother3real",
+			"lucasAlt",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

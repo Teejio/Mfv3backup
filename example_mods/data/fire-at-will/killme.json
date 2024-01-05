@@ -1,0 +1,116 @@
+{
+    "Left": {
+        "TheGOAT": {
+            "idleName": "Pico",
+            "xOffset": 70,
+            "yOffset": -10,
+            "scale": [1.55, 1.55]
+        },
+        "BOWCER": {
+            "idleName": "Bowser",
+            "xOffset": -100,
+            "yOffset": -125,
+            "scale": [1.4, 1.4]
+        },
+        "Flaco": {
+            "idleName": "Falco",
+            "xOffset": 100,
+            "yOffset": -20,
+            "scale": [1.5, 1.5]
+        },
+        "Gender": {
+            "idleName": "Samus",
+            "xOffset": 100,
+            "yOffset": -100,
+            "scale": [1.35, 1.35]
+        },
+        "HYAAAH": {
+            "idleName": "Link",
+            "xOffset": 100,
+            "yOffset": -80,
+            "scale": [1.35, 1.35]
+        },
+        "yielder": {
+            "idleName": "Starman",
+            "xOffset": 125,
+            "yOffset": -125,
+            "scale": [1.35, 1.35]
+        }
+    },
+    "Middle": {
+        "Gurlfrien": {
+            "idleName": "GF",
+            "xOffset": 25,
+            "yOffset": 0,
+            "scale": [1.5, 1.5]
+        },
+        "Boner": {
+            "idleName": "Sans",
+            "xOffset": 50,
+            "yOffset": 75,
+            "scale": [1.3, 1.3]
+        },
+        "PickMen": {
+            "idleName": "Olimar",
+            "xOffset": 50,
+            "yOffset": 45,
+            "scale": [1.3, 1.3]
+        },
+        "GiegueTwo": {
+            "idleName": "Mewtwo",
+            "xOffset": -90,
+            "yOffset": -45,
+            "scale": [1.5, 1.5]
+        },
+        "Do": {
+            "idleName": "Ninten",
+            "xOffset": 40,
+            "yOffset": -25,
+            "scale": [1.35, 1.35]
+        },
+        "SuperFuckingMario": {
+            "idleName": "Mario",
+            "xOffset": 10,
+            "yOffset": 75,
+            "scale": [1.5, 1.5]
+        }
+    },
+    "Right": {
+        "iuuuu": {
+            "idleName": "Masked man",
+            "xOffset": 40,
+            "yOffset": 20,
+            "scale": [1.35, 1.35]
+        },
+        "Bofren": {
+            "idleName": "BF",
+            "xOffset": 60,
+            "yOffset": 65,
+            "scale": [1.5, 1.5]
+        },
+        "Inki": {
+            "idleName": "inkling",
+            "xOffset": 10,
+            "yOffset": 120,
+            "scale": [1.55, 1.55]
+        },
+        "Pito": {
+            "idleName": "Pit",
+            "xOffset": -10,
+            "yOffset": -25,
+            "scale": [1.3, 1.3]
+        },
+        "LaBella": {
+            "idleName": "Isabelle",
+            "xOffset": 55,
+            "yOffset": -10,
+            "scale": [1.35, 1.35]
+        },
+        "Kirbo": {
+            "idleName": "Kirby",
+            "xOffset": 75,
+            "yOffset": 175,
+            "scale": [1.75, 1.75]
+        }
+    }
+}

@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-1,
+				-150
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "Pico dies"
+		},
+		{
+			"offsets": [
+				-12,
+				-152
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "Pico dead loop"
+		},
+		{
+			"offsets": [
+				-12,
+				-74
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "Pico dead confirm"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/picodies-assets",
+	"position": [
+		-120,
+		220
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

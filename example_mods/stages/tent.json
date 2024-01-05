@@ -1,0 +1,12 @@
+{
+	"directory": "",
+	"defaultZoom": 2,
+	"isPixelStage": false,
+	"bfColor": "ness",
+	"dadColor": "tent",
+	"hide_girlfriend": true,
+
+	"boyfriend": [0, 0],
+	"girlfriend": [0, 0],
+	"opponent": [250, -200]
+}

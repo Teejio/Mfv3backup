@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				298,
+				264
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "giegue_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				550,
+				257
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "giegue_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				350,
+				310
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "giegue_right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				400,
+				270
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "giegue_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				342,
+				291
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "giegue_up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/giegue_2",
+	"position": [
+		980,
+		400
+	],
+	"healthicon": "guggy",
+	"flip_x": false,
+	"healthbar_colors": [
+		249,
+		250,
+		255
+	],
+	"camera_position": [
+		-660,
+		-280
+	],
+	"sing_duration": 4.3,
+	"scale": 1.1
+}

@@ -1,0 +1,158 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				68,
+				-158
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ghostleft"
+		},
+		{
+			"offsets": [
+				33,
+				-130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ghostright"
+		},
+		{
+			"offsets": [
+				54,
+				-173
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ghostdown"
+		},
+		{
+			"offsets": [
+				0,
+				-130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ghostidle"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-130
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "ghostidle",
+			"indices": [
+				9,
+				10,
+				11,
+				12
+			]
+		},
+		{
+			"offsets": [
+				68,
+				-158
+			],
+			"indices": [
+				9,
+				10,
+				11,
+				12
+			],
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"loop": true,
+			"name": "ghostleft"
+		},
+		{
+			"offsets": [
+				33,
+				-130
+			],
+			"indices": [
+				9,
+				10,
+				11,
+				12
+			],
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"loop": true,
+			"name": "ghostright"
+		},
+		{
+			"offsets": [
+				0,
+				-99
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "ghostup"
+		},
+		{
+			"offsets": [
+				0,
+				-99
+			],
+			"indices": [
+				9,
+				10,
+				11,
+				12
+			],
+			"fps": 24,
+			"anim": "singUP-loop",
+			"loop": true,
+			"name": "ghostup"
+		},
+		{
+			"offsets": [
+				54,
+				-173
+			],
+			"indices": [
+				9,
+				10,
+				11,
+				12
+			],
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"loop": true,
+			"name": "ghostdown"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/starghost",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "starman",
+	"flip_x": false,
+	"healthbar_colors": [
+		216,
+		85,
+		142
+	],
+	"camera_position": [
+		-150,
+		70
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

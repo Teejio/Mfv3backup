@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				40,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle-Gang"
+		},
+		{
+			"offsets": [
+				40,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "startSpin",
+			"indices": [],
+			"name": "Spin-Gang"
+		},
+		{
+			"offsets": [
+				-100,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "Alt-Idle-Gang"
+		},
+		{
+			"offsets": [
+				-102,
+				37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shoot",
+			"indices": [],
+			"name": "Shoot-Gang"
+		},
+		{
+			"offsets": [
+				108,
+				-8
+			],
+			"loop": true,
+			"fps": 40,
+			"anim": "loopSpin",
+			"indices": [],
+			"name": "SpinLoop-Gang"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-97,
+				-33
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "Dodge-Gang",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BBGang",
+	"position": [
+		90,
+		110
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		60,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

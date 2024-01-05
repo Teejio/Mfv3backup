@@ -1,0 +1,33 @@
+{
+	"songs": [
+		[
+			"warforged",
+			"claus",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"gameType": "EarthBound",
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "YYWEEK",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

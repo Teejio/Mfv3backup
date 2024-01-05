@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-33,
+				33
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "teddy-idle"
+		},
+		{
+			"offsets": [
+				40,
+				40
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "teddy-left"
+		},
+		{
+			"offsets": [
+				0,
+				110
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "teddy-up"
+		},
+		{
+			"offsets": [
+				-32,
+				-106
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "teddy-down"
+		},
+		{
+			"offsets": [
+				-50,
+				48
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "teddy-right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/teddy-assets",
+	"position": [
+		40,
+		-10
+	],
+	"healthicon": "teddy",
+	"flip_x": false,
+	"healthbar_colors": [
+		235,
+		40,
+		40
+	],
+	"camera_position": [
+		120,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

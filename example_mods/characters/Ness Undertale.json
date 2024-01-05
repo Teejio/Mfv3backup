@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-9,
+				-21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left-Ness"
+		},
+		{
+			"offsets": [
+				-72,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up-Ness"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-71,
+				-38
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down-Ness",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-70,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle-Ness"
+		},
+		{
+			"offsets": [
+				-10,
+				-18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Left-Miss-Ness"
+		},
+		{
+			"offsets": [
+				-85,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Right-Miss-Ness"
+		},
+		{
+			"offsets": [
+				-85,
+				-21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right-Ness"
+		},
+		{
+			"offsets": [
+				-71,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Up-Miss-Ness"
+		},
+		{
+			"offsets": [
+				-70,
+				-38
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Down-Miss-Ness"
+		},
+		{
+			"offsets": [
+				40,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-alt",
+			"loop": false,
+			"name": "Munch-Ness"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/NessWithABurger",
+	"position": [
+		60,
+		90
+	],
+	"healthicon": "Ness",
+	"flip_x": true,
+	"healthbar_colors": [
+		234,
+		49,
+		49
+	],
+	"camera_position": [
+		30,
+		20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

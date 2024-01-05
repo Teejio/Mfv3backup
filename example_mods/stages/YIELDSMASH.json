@@ -1,0 +1,13 @@
+{
+	"directory": "",
+	"defaultZoom": 0.6,
+	"isPixelStage": false,
+	"bfColor": "yieldguy",
+	"dadColor": "Yield",
+	"hide_girlfriend": true,
+
+
+	"boyfriend": [-150, 50],
+	"girlfriend": [400, 130],
+	"opponent": [ -200, -600 ]
+}

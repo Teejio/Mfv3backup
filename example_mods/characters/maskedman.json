@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				620,
+				670
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "idle",
+			"indices": [],
+			"name": "maskedman idle"
+		},
+		{
+			"offsets": [
+				860,
+				686
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "maskedman right"
+		},
+		{
+			"offsets": [
+				610,
+				657
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "maskedman left"
+		},
+		{
+			"offsets": [
+				790,
+				685
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "maskedman down"
+		},
+		{
+			"offsets": [
+				569,
+				671
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singUP",
+			"indices": [],
+			"name": "maskedman up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/maskedman",
+	"position": [
+		-80,
+		310
+	],
+	"healthicon": "claus",
+	"flip_x": false,
+	"healthbar_colors": [
+		159,
+		156,
+		188
+	],
+	"camera_position": [
+		-560,
+		-890
+	],
+	"sing_duration": 5.99999999999999,
+	"scale": 1.2
+}

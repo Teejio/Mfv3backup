@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				3,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "aleft"
+		},
+		{
+			"offsets": [
+				-10,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "adown"
+		},
+		{
+			"offsets": [
+				4,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "aup"
+		},
+		{
+			"offsets": [
+				-7,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "aright"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "aidle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/halloweenchar",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "poop",
+	"flip_x": false,
+	"healthbar_colors": [
+		195,
+		151,
+		239
+	],
+	"camera_position": [
+		140,
+		100
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1
+}

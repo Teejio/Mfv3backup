@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="LAguys.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="backidle0000" x="10" y="10" width="1778" height="423" frameX="0" frameY="-12" frameWidth="1778" frameHeight="435"/>
+	<SubTexture name="backidle0001" x="1798" y="10" width="1778" height="423" frameX="0" frameY="-12" frameWidth="1778" frameHeight="435"/>
+	<SubTexture name="backidle0002" x="3586" y="10" width="1763" height="432" frameX="-8" frameY="-3" frameWidth="1778" frameHeight="435"/>
+	<SubTexture name="backidle0003" x="5359" y="10" width="1763" height="432" frameX="-8" frameY="-3" frameWidth="1778" frameHeight="435"/>
+	<SubTexture name="backidle0004" x="10" y="452" width="1758" height="435" frameX="-11" frameY="0" frameWidth="1778" frameHeight="435"/>
+	<SubTexture name="backidle0005" x="1778" y="452" width="1758" height="435" frameX="-11" frameY="0" frameWidth="1778" frameHeight="435"/>
+	<SubTexture name="backidle0006" x="3546" y="452" width="1758" height="435" frameX="-11" frameY="0" frameWidth="1778" frameHeight="435"/>
+	<SubTexture name="backidle0007" x="5314" y="452" width="1758" height="435" frameX="-11" frameY="0" frameWidth="1778" frameHeight="435"/>
+	<SubTexture name="backidle0008" x="3546" y="452" width="1758" height="435" frameX="-11" frameY="0" frameWidth="1778" frameHeight="435"/>
+	<SubTexture name="backidle0009" x="5314" y="452" width="1758" height="435" frameX="-11" frameY="0" frameWidth="1778" frameHeight="435"/>
+	<SubTexture name="backidle0010" x="3546" y="452" width="1758" height="435" frameX="-11" frameY="0" frameWidth="1778" frameHeight="435"/>
+	<SubTexture name="backidle0011" x="5314" y="452" width="1758" height="435" frameX="-11" frameY="0" frameWidth="1778" frameHeight="435"/>
+	<SubTexture name="backidle0012" x="3546" y="452" width="1758" height="435" frameX="-11" frameY="0" frameWidth="1778" frameHeight="435"/>
+	<SubTexture name="backidle0013" x="5314" y="452" width="1758" height="435" frameX="-11" frameY="0" frameWidth="1778" frameHeight="435"/>
+	<SubTexture name="backidle gun0000" x="10" y="897" width="1780" height="441"/>
+	<SubTexture name="backidle gun0001" x="1800" y="897" width="1780" height="441"/>
+	<SubTexture name="backidle gun0002" x="3590" y="897" width="1770" height="441" frameX="-2" frameY="0" frameWidth="1780" frameHeight="441"/>
+	<SubTexture name="backidle gun0003" x="5370" y="897" width="1770" height="441" frameX="-2" frameY="0" frameWidth="1780" frameHeight="441"/>
+	<SubTexture name="backidle gun0004" x="10" y="1348" width="1767" height="441" frameX="-4" frameY="0" frameWidth="1780" frameHeight="441"/>
+	<SubTexture name="backidle gun0005" x="1787" y="1348" width="1767" height="441" frameX="-4" frameY="0" frameWidth="1780" frameHeight="441"/>
+	<SubTexture name="backidle gun0006" x="3564" y="1348" width="1764" height="441" frameX="-7" frameY="0" frameWidth="1780" frameHeight="441"/>
+	<SubTexture name="backidle gun0007" x="5338" y="1348" width="1764" height="441" frameX="-7" frameY="0" frameWidth="1780" frameHeight="441"/>
+	<SubTexture name="backidle gun0008" x="3564" y="1348" width="1764" height="441" frameX="-7" frameY="0" frameWidth="1780" frameHeight="441"/>
+	<SubTexture name="backidle gun0009" x="5338" y="1348" width="1764" height="441" frameX="-7" frameY="0" frameWidth="1780" frameHeight="441"/>
+	<SubTexture name="backidle gun0010" x="3564" y="1348" width="1764" height="441" frameX="-7" frameY="0" frameWidth="1780" frameHeight="441"/>
+	<SubTexture name="backidle gun0011" x="5338" y="1348" width="1764" height="441" frameX="-7" frameY="0" frameWidth="1780" frameHeight="441"/>
+	<SubTexture name="backidle gun0012" x="3564" y="1348" width="1764" height="441" frameX="-7" frameY="0" frameWidth="1780" frameHeight="441"/>
+	<SubTexture name="backidle gun0013" x="5338" y="1348" width="1764" height="441" frameX="-7" frameY="0" frameWidth="1780" frameHeight="441"/>
+	<SubTexture name="backshoot0000" x="10" y="1799" width="1771" height="448"/>
+	<SubTexture name="backshoot0001" x="1791" y="1799" width="1771" height="448"/>
+	<SubTexture name="backshoot0002" x="3572" y="1799" width="1769" height="441" frameX="-1" frameY="-7" frameWidth="1771" frameHeight="448"/>
+	<SubTexture name="backshoot0003" x="5351" y="1799" width="1769" height="441" frameX="-1" frameY="-7" frameWidth="1771" frameHeight="448"/>
+	<SubTexture name="backshoot0004" x="10" y="2257" width="1765" height="441" frameX="-2" frameY="-7" frameWidth="1771" frameHeight="448"/>
+	<SubTexture name="backshoot0005" x="1785" y="2257" width="1765" height="441" frameX="-2" frameY="-7" frameWidth="1771" frameHeight="448"/>
+	<SubTexture name="backshoot0006" x="3560" y="2257" width="1765" height="441" frameX="-2" frameY="-7" frameWidth="1771" frameHeight="448"/>
+	<SubTexture name="backshoot0007" x="5335" y="2257" width="1763" height="441" frameX="-2" frameY="-7" frameWidth="1771" frameHeight="448"/>
+	<SubTexture name="backshoot0008" x="10" y="2708" width="1763" height="441" frameX="-2" frameY="-7" frameWidth="1771" frameHeight="448"/>
+	<SubTexture name="backshoot0009" x="1783" y="2708" width="1763" height="441" frameX="-2" frameY="-7" frameWidth="1771" frameHeight="448"/>
+	<SubTexture name="backshoot0010" x="3556" y="2708" width="1763" height="441" frameX="-2" frameY="-7" frameWidth="1771" frameHeight="448"/>
+	<SubTexture name="backshoot0011" x="5329" y="2708" width="1763" height="441" frameX="-2" frameY="-7" frameWidth="1771" frameHeight="448"/>
+	<SubTexture name="backshoot0012" x="10" y="3159" width="1763" height="441" frameX="-2" frameY="-7" frameWidth="1771" frameHeight="448"/>
+	<SubTexture name="backshoot0013" x="5329" y="2708" width="1763" height="441" frameX="-2" frameY="-7" frameWidth="1771" frameHeight="448"/>
+	<SubTexture name="backshoot0014" x="10" y="3159" width="1763" height="441" frameX="-2" frameY="-7" frameWidth="1771" frameHeight="448"/>
+	<SubTexture name="backshoot0015" x="5329" y="2708" width="1763" height="441" frameX="-2" frameY="-7" frameWidth="1771" frameHeight="448"/>
+	<SubTexture name="backshoot0016" x="10" y="3159" width="1763" height="441" frameX="-2" frameY="-7" frameWidth="1771" frameHeight="448"/>
+	<SubTexture name="backturn0000" x="1783" y="3159" width="1778" height="422" frameX="-142" frameY="-25" frameWidth="1962" frameHeight="476"/>
+	<SubTexture name="backturn0001" x="3571" y="3159" width="1778" height="422" frameX="-142" frameY="-25" frameWidth="1962" frameHeight="476"/>
+	<SubTexture name="backturn0002" x="5359" y="3159" width="1750" height="448" frameX="-150" frameY="0" frameWidth="1962" frameHeight="476"/>
+	<SubTexture name="backturn0003" x="10" y="3617" width="1750" height="448" frameX="-150" frameY="0" frameWidth="1962" frameHeight="476"/>
+	<SubTexture name="backturn0004" x="1770" y="3617" width="1754" height="444" frameX="-148" frameY="-3" frameWidth="1962" frameHeight="476"/>
+	<SubTexture name="backturn0005" x="3534" y="3617" width="1754" height="444" frameX="-148" frameY="-3" frameWidth="1962" frameHeight="476"/>
+	<SubTexture name="backturn0006" x="5298" y="3617" width="1762" height="435" frameX="-143" frameY="-13" frameWidth="1962" frameHeight="476"/>
+	<SubTexture name="backturn0007" x="10" y="4075" width="1948" height="428" frameX="0" frameY="-43" frameWidth="1962" frameHeight="476"/>
+	<SubTexture name="backturn0008" x="1968" y="4075" width="1920" height="407" frameX="-42" frameY="-57" frameWidth="1962" frameHeight="476"/>
+	<SubTexture name="backturn0009" x="3898" y="4075" width="1935" height="368" frameX="-25" frameY="-96" frameWidth="1962" frameHeight="476"/>
+	<SubTexture name="backturn0010" x="5843" y="4075" width="1948" height="368" frameX="0" frameY="-103" frameWidth="1962" frameHeight="476"/>
+	<SubTexture name="backturn0011" x="10" y="4513" width="1920" height="368" frameX="-42" frameY="-96" frameWidth="1962" frameHeight="476"/>
+	<SubTexture name="backturn0012" x="1940" y="4513" width="1923" height="433" frameX="-37" frameY="-43" frameWidth="1962" frameHeight="476"/>
+	<SubTexture name="backturn0013" x="3873" y="4513" width="1864" height="419" frameX="-84" frameY="-53" frameWidth="1962" frameHeight="476"/>
+	<SubTexture name="backturn0014" x="5747" y="4513" width="1878" height="436" frameX="-84" frameY="-36" frameWidth="1962" frameHeight="476"/>
+	<SubTexture name="backturn0015" x="10" y="4959" width="1775" height="437" frameX="-81" frameY="-36" frameWidth="1962" frameHeight="476"/>
+	<SubTexture name="backturn0016" x="1795" y="4959" width="1775" height="444" frameX="-81" frameY="-29" frameWidth="1962" frameHeight="476"/>
+	<SubTexture name="backturn0017" x="3580" y="4959" width="1778" height="444" frameX="-80" frameY="-29" frameWidth="1962" frameHeight="476"/>
+	<SubTexture name="backturn0018" x="5368" y="4959" width="1778" height="444" frameX="-80" frameY="-29" frameWidth="1962" frameHeight="476"/>
+	<SubTexture name="backturn0019" x="10" y="5413" width="1780" height="444" frameX="-80" frameY="-29" frameWidth="1962" frameHeight="476"/>
+	<SubTexture name="backturn0020" x="1800" y="5413" width="1780" height="444" frameX="-80" frameY="-29" frameWidth="1962" frameHeight="476"/>
+	<SubTexture name="backturn0021" x="10" y="5413" width="1780" height="444" frameX="-80" frameY="-29" frameWidth="1962" frameHeight="476"/>
+	<SubTexture name="backturn0022" x="1800" y="5413" width="1780" height="444" frameX="-80" frameY="-29" frameWidth="1962" frameHeight="476"/>
+	<SubTexture name="backturn0023" x="10" y="5413" width="1780" height="444" frameX="-80" frameY="-29" frameWidth="1962" frameHeight="476"/>
+	<SubTexture name="backturn0024" x="1800" y="5413" width="1780" height="444" frameX="-80" frameY="-29" frameWidth="1962" frameHeight="476"/>
+</TextureAtlas>

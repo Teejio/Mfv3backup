@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="psi_thunder.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="psi_thunder0000" x="0" y="0" width="465" height="684"/>
+	<SubTexture name="psi_thunder0001" x="482" y="0" width="465" height="684"/>
+	<SubTexture name="psi_thunder0002" x="964" y="0" width="465" height="684"/>
+	<SubTexture name="psi_thunder0003" x="1446" y="0" width="465" height="684"/>
+	<SubTexture name="psi_thunder0004" x="1928" y="0" width="465" height="684"/>
+	<SubTexture name="psi_thunder0005" x="964" y="0" width="465" height="684"/>
+	<SubTexture name="psi_thunder0006" x="964" y="0" width="465" height="684"/>
+	<SubTexture name="psi_thunder0007" x="2410" y="0" width="465" height="684"/>
+	<SubTexture name="psi_thunder0008" x="2892" y="0" width="465" height="684"/>
+	<SubTexture name="psi_thunder0009" x="964" y="0" width="465" height="684"/>
+	<SubTexture name="psi_thunder0010" x="3374" y="0" width="465" height="684"/>
+	<SubTexture name="psi_thunder0011" x="3374" y="0" width="465" height="684"/>
+	<SubTexture name="psi_thunder0012" x="0" y="701" width="465" height="684"/>
+	<SubTexture name="psi_thunder0013" x="964" y="0" width="465" height="684"/>
+	<SubTexture name="psi_thunder0014" x="482" y="701" width="465" height="684"/>
+	<SubTexture name="psi_thunder0015" x="964" y="701" width="465" height="684"/>
+	<SubTexture name="psi_thunder0016" x="964" y="701" width="465" height="684"/>
+	<SubTexture name="psi_thunder0017" x="964" y="0" width="465" height="684"/>
+	<SubTexture name="psi_thunder0018" x="1446" y="701" width="465" height="684"/>
+	<SubTexture name="psi_thunder0019" x="1928" y="701" width="465" height="684"/>
+	<SubTexture name="psi_thunder0020" x="964" y="0" width="465" height="684"/>
+	<SubTexture name="psi_thunder0021" x="964" y="0" width="465" height="684"/>
+	<SubTexture name="psi_thunder0022" x="2410" y="701" width="465" height="684"/>
+	<SubTexture name="psi_thunder0023" x="2892" y="701" width="465" height="684"/>
+	<SubTexture name="psi_thunder0024" x="964" y="0" width="465" height="684"/>
+</TextureAtlas>

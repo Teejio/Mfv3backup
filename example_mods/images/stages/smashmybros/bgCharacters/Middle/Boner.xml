@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Unfunny.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Sans0000" x="5" y="5" width="213" height="300" frameX="-2" frameY="-4" frameWidth="217" frameHeight="304"/>
+	<SubTexture name="Sans0001" x="223" y="5" width="206" height="304" frameX="-5" frameY="0" frameWidth="217" frameHeight="304"/>
+	<SubTexture name="Sans0002" x="223" y="5" width="206" height="304" frameX="-5" frameY="0" frameWidth="217" frameHeight="304"/>
+	<SubTexture name="Sans0003" x="434" y="5" width="217" height="290" frameX="0" frameY="-14" frameWidth="217" frameHeight="304"/>
+	<SubTexture name="Sans0004" x="434" y="5" width="217" height="290" frameX="0" frameY="-14" frameWidth="217" frameHeight="304"/>
+	<SubTexture name="Sans0005" x="656" y="5" width="213" height="293" frameX="-2" frameY="-11" frameWidth="217" frameHeight="304"/>
+	<SubTexture name="Sans0006" x="656" y="5" width="213" height="293" frameX="-2" frameY="-11" frameWidth="217" frameHeight="304"/>
+	<SubTexture name="Sans0007" x="5" y="314" width="213" height="297" frameX="-2" frameY="-7" frameWidth="217" frameHeight="304"/>
+	<SubTexture name="Sans0008" x="5" y="314" width="213" height="297" frameX="-2" frameY="-7" frameWidth="217" frameHeight="304"/>
+	<SubTexture name="Sans0009" x="5" y="5" width="213" height="300" frameX="-2" frameY="-4" frameWidth="217" frameHeight="304"/>
+	<SubTexture name="Sans0010" x="5" y="5" width="213" height="300" frameX="-2" frameY="-4" frameWidth="217" frameHeight="304"/>
+	<SubTexture name="Sans0011" x="5" y="5" width="213" height="300" frameX="-2" frameY="-4" frameWidth="217" frameHeight="304"/>
+	<SubTexture name="Sans0012" x="5" y="5" width="213" height="300" frameX="-2" frameY="-4" frameWidth="217" frameHeight="304"/>
+	<SubTexture name="Sans0013" x="5" y="5" width="213" height="300" frameX="-2" frameY="-4" frameWidth="217" frameHeight="304"/>
+</TextureAtlas>

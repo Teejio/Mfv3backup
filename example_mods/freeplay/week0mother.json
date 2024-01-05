@@ -1,0 +1,11 @@
+{
+	"cartridgeName": "Mother",
+	"songs":[
+        ["Encore", "nin", "bf"],
+		["Angeles", "teddy", "pico"],
+		["Poindexter", "lloyd","jeff"],
+		["Dissonance", "guggy", "bf"]
+    ],
+	"weekName": "MotherSongs",
+	"hintText": "Beat Encore in Story Mode"
+}

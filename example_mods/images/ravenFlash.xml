@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ravenFlash.png">
+<SubTexture name="flash0000" x="0" y="0" width="1927" height="584" frameX="0" frameY="-1" frameWidth="1923" frameHeight="585" />
+<SubTexture name="flash0001" x="0" y="584" width="1927" height="533" frameX="0" frameY="-53" frameWidth="1923" frameHeight="585" />
+<SubTexture name="flash0002" x="0" y="1117" width="1927" height="482" frameX="0" frameY="-104" frameWidth="1923" frameHeight="585" />
+<SubTexture name="flash0003" x="1927" y="0" width="1927" height="431" frameX="0" frameY="-156" frameWidth="1923" frameHeight="585" />
+<SubTexture name="flash0004" x="1927" y="431" width="1927" height="379" frameX="0" frameY="-208" frameWidth="1923" frameHeight="585" />
+<SubTexture name="flash0005" x="1927" y="810" width="1927" height="328" frameX="0" frameY="-260" frameWidth="1923" frameHeight="585" />
+<SubTexture name="flash0006" x="1927" y="1138" width="1927" height="276" frameX="0" frameY="-312" frameWidth="1923" frameHeight="585" />
+<SubTexture name="flash0007" x="0" y="1599" width="1927" height="225" frameX="0" frameY="-363" frameWidth="1923" frameHeight="585" />
+</TextureAtlas>

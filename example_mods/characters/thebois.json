@@ -1,0 +1,75 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				208,
+				-114
+			],
+			"anim": "backturn",
+			"fps": 24,
+			"name": "backturn",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				106,
+				-146
+			],
+			"anim": "backshoot",
+			"fps": 24,
+			"name": "backshoot",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				111,
+				-153
+			],
+			"anim": "backidle gun",
+			"fps": 24,
+			"name": "backidle gun",
+			"indices": []
+		},
+		{
+			"offsets": [
+				40,
+				-130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "backidle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"name": "backidle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/LAguys",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

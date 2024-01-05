@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SuperFuckingMario.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Mario0000" x="5" y="5" width="238" height="256" frameX="-4" frameY="-3" frameWidth="246" frameHeight="259"/>
+	<SubTexture name="Mario0001" x="248" y="5" width="231" height="259" frameX="-7" frameY="0" frameWidth="246" frameHeight="259"/>
+	<SubTexture name="Mario0002" x="248" y="5" width="231" height="259" frameX="-7" frameY="0" frameWidth="246" frameHeight="259"/>
+	<SubTexture name="Mario0003" x="484" y="5" width="246" height="248" frameX="0" frameY="-11" frameWidth="246" frameHeight="259"/>
+	<SubTexture name="Mario0004" x="484" y="5" width="246" height="248" frameX="0" frameY="-11" frameWidth="246" frameHeight="259"/>
+	<SubTexture name="Mario0005" x="735" y="5" width="238" height="252" frameX="-4" frameY="-7" frameWidth="246" frameHeight="259"/>
+	<SubTexture name="Mario0006" x="735" y="5" width="238" height="252" frameX="-4" frameY="-7" frameWidth="246" frameHeight="259"/>
+	<SubTexture name="Mario0007" x="5" y="269" width="238" height="254" frameX="-4" frameY="-5" frameWidth="246" frameHeight="259"/>
+	<SubTexture name="Mario0008" x="5" y="269" width="238" height="254" frameX="-4" frameY="-5" frameWidth="246" frameHeight="259"/>
+	<SubTexture name="Mario0009" x="5" y="5" width="238" height="256" frameX="-4" frameY="-3" frameWidth="246" frameHeight="259"/>
+	<SubTexture name="Mario0010" x="5" y="5" width="238" height="256" frameX="-4" frameY="-3" frameWidth="246" frameHeight="259"/>
+	<SubTexture name="Mario0011" x="5" y="5" width="238" height="256" frameX="-4" frameY="-3" frameWidth="246" frameHeight="259"/>
+	<SubTexture name="Mario0012" x="5" y="5" width="238" height="256" frameX="-4" frameY="-3" frameWidth="246" frameHeight="259"/>
+	<SubTexture name="Mario0013" x="5" y="5" width="238" height="256" frameX="-4" frameY="-3" frameWidth="246" frameHeight="259"/>
+</TextureAtlas>

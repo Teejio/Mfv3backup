@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:5f313661deb5e8793f20e7c670af3db6:f6dc52850b93e134a236826d8dda5566:c9d7355d31176b300f9bce60be5ac9db$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+pX => x pos of the pivot point (relative to sprite width)
+pY => y pos of the pivot point (relative to sprite height)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+with polygon mode enabled:
+vertices   => points in sprite coordinate system (x0,y0,x1,y1,x2,y2, ...)
+verticesUV => points in sheet coordinate system (x0,y0,x1,y1,x2,y2, ...)
+triangles  => sprite triangulation, 3 vertex indices per triangle
+-->
+<TextureAtlas imagePath="rainbow.png" width="2048" height="768">
+    <SubTexture name="bingus0000.png" x="0" y="0" width="256" height="256"/>
+    <SubTexture name="frame0000.png" x="0" y="0" width="256" height="256"/>
+    <SubTexture name="frame0001.png" x="256" y="0" width="256" height="256"/>
+    <SubTexture name="frame0002.png" x="512" y="0" width="256" height="256"/>
+    <SubTexture name="frame0003.png" x="768" y="0" width="256" height="256"/>
+    <SubTexture name="frame0004.png" x="1024" y="0" width="256" height="256"/>
+    <SubTexture name="frame0005.png" x="1280" y="0" width="256" height="256"/>
+    <SubTexture name="frame0006.png" x="1536" y="0" width="256" height="256"/>
+    <SubTexture name="frame0007.png" x="1792" y="0" width="256" height="256"/>
+    <SubTexture name="frame0008.png" x="0" y="256" width="256" height="256"/>
+    <SubTexture name="frame0009.png" x="256" y="256" width="256" height="256"/>
+    <SubTexture name="frame0010.png" x="512" y="256" width="256" height="256"/>
+    <SubTexture name="frame0011.png" x="768" y="256" width="256" height="256"/>
+    <SubTexture name="frame0012.png" x="1024" y="256" width="256" height="256"/>
+    <SubTexture name="frame0013.png" x="1280" y="256" width="256" height="256"/>
+    <SubTexture name="frame0014.png" x="1536" y="256" width="256" height="256"/>
+    <SubTexture name="frame0015.png" x="1792" y="256" width="256" height="256"/>
+    <SubTexture name="frame0016.png" x="0" y="512" width="256" height="256"/>
+    <SubTexture name="frame0017.png" x="256" y="512" width="256" height="256"/>
+    <SubTexture name="frame0018.png" x="512" y="512" width="256" height="256"/>
+    <SubTexture name="frame0019.png" x="768" y="512" width="256" height="256"/>
+    <SubTexture name="frame0020.png" x="1024" y="512" width="256" height="256"/>
+    <SubTexture name="frame0021.png" x="1280" y="512" width="256" height="256"/>
+    <SubTexture name="frame0022.png" x="1536" y="512" width="256" height="256"/>
+    <SubTexture name="frame0023.png" x="1792" y="512" width="256" height="256"/>
+</TextureAtlas>

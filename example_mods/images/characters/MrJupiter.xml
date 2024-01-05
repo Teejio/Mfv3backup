@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MrJupiter.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BOING!0000" x="0" y="0" width="1280" height="1280"/>
+	<SubTexture name="BOING!0001" x="1280" y="0" width="1280" height="1280"/>
+	<SubTexture name="BOING!0002" x="2560" y="0" width="1280" height="1280"/>
+	<SubTexture name="BOING!0003" x="3840" y="0" width="1280" height="1280"/>
+	<SubTexture name="BOING!0004" x="5120" y="0" width="1280" height="1280"/>
+	<SubTexture name="BOING!0005" x="6400" y="0" width="1280" height="1280"/>
+	<SubTexture name="BOING!0006" x="0" y="1280" width="1280" height="1280"/>
+	<SubTexture name="BOING!0007" x="1280" y="1280" width="1280" height="1280"/>
+	<SubTexture name="BOING!0008" x="2560" y="1280" width="1280" height="1280"/>
+	<SubTexture name="BOING!0009" x="3840" y="1280" width="1280" height="1280"/>
+	<SubTexture name="BOING!0010" x="5120" y="1280" width="1280" height="1280"/>
+	<SubTexture name="BOING!0011" x="6400" y="1280" width="1280" height="1280"/>
+	<SubTexture name="BOING!0012" x="0" y="2560" width="1280" height="1280"/>
+	<SubTexture name="BOING!0013" x="1280" y="2560" width="1280" height="1280"/>
+	<SubTexture name="BOING!0014" x="2560" y="2560" width="1280" height="1280"/>
+	<SubTexture name="BOING!0015" x="3840" y="2560" width="1280" height="1280"/>
+	<SubTexture name="DOWN0000" x="5120" y="2560" width="1280" height="1280"/>
+	<SubTexture name="DOWN0001" x="6400" y="2560" width="1280" height="1280"/>
+	<SubTexture name="IDLE0000" x="0" y="3840" width="1280" height="1280"/>
+	<SubTexture name="IDLE0001" x="0" y="3840" width="1280" height="1280"/>
+	<SubTexture name="IDLE0002" x="0" y="3840" width="1280" height="1280"/>
+	<SubTexture name="IDLE0003" x="0" y="3840" width="1280" height="1280"/>
+	<SubTexture name="IDLE0004" x="0" y="3840" width="1280" height="1280"/>
+	<SubTexture name="IDLE0005" x="0" y="3840" width="1280" height="1280"/>
+	<SubTexture name="IDLE0006" x="0" y="3840" width="1280" height="1280"/>
+	<SubTexture name="IDLE0007" x="1280" y="3840" width="1280" height="1280"/>
+	<SubTexture name="IDLE0008" x="1280" y="3840" width="1280" height="1280"/>
+	<SubTexture name="IDLE0009" x="1280" y="3840" width="1280" height="1280"/>
+	<SubTexture name="IDLE0010" x="1280" y="3840" width="1280" height="1280"/>
+	<SubTexture name="IDLE0011" x="1280" y="3840" width="1280" height="1280"/>
+	<SubTexture name="IDLE0012" x="1280" y="3840" width="1280" height="1280"/>
+	<SubTexture name="IDLE0013" x="1280" y="3840" width="1280" height="1280"/>
+	<SubTexture name="LEFT0000" x="2560" y="3840" width="1280" height="1280"/>
+	<SubTexture name="LEFT0001" x="3840" y="3840" width="1280" height="1280"/>
+	<SubTexture name="RIGHT0000" x="5120" y="3840" width="1280" height="1280"/>
+	<SubTexture name="RIGHT0001" x="6400" y="3840" width="1280" height="1280"/>
+	<SubTexture name="UP0000" x="0" y="5120" width="1280" height="1280"/>
+	<SubTexture name="UP0001" x="1280" y="5120" width="1280" height="1280"/>
+</TextureAtlas>

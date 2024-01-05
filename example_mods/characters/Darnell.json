@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				7
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle-Darnell",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				500,
+				32
+			],
+			"anim": "shoot",
+			"fps": 24,
+			"name": "Shoot-Darnell",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				1
+			],
+			"anim": "startSpin",
+			"fps": 24,
+			"name": "Spin-Darnell",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				190,
+				-20
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "Alt-Idle-Darnell",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				40,
+				20
+			],
+			"anim": "loopSpin",
+			"fps": 40,
+			"name": "SpinLoop-Darnell",
+			"indices": []
+		},
+		{
+			"offsets": [
+				171,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "dodge",
+			"loop": false,
+			"name": "Dodge-Darnell"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Darnell",
+	"position": [
+		200,
+		280
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		60,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

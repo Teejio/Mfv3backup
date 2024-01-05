@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:c9db75a964edcece30dec75830d9fc8d:6bf7a3b6d691398b240a03fa4b0a10b0:64361bcc81e0de247f033bf3340b8bdc$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+pX => x pos of the pivot point (relative to sprite width)
+pY => y pos of the pivot point (relative to sprite height)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+with polygon mode enabled:
+vertices   => points in sprite coordinate system (x0,y0,x1,y1,x2,y2, ...)
+verticesUV => points in sheet coordinate system (x0,y0,x1,y1,x2,y2, ...)
+triangles  => sprite triangulation, 3 vertex indices per triangle
+-->
+<TextureAtlas imagePath="dummness.png" width="2048" height="2560">
+    <SubTexture name="down0000.png" x="0" y="0" width="512" height="512"/>
+    <SubTexture name="down0001.png" x="512" y="0" width="512" height="512"/>
+    <SubTexture name="down0002.png" x="1024" y="0" width="512" height="512"/>
+    <SubTexture name="down0003.png" x="1536" y="0" width="512" height="512"/>
+    <SubTexture name="idle0000.png" x="0" y="512" width="512" height="512"/>
+    <SubTexture name="idle0001.png" x="512" y="512" width="512" height="512"/>
+    <SubTexture name="idle0002.png" x="1024" y="512" width="512" height="512"/>
+    <SubTexture name="idle0003.png" x="1536" y="512" width="512" height="512"/>
+    <SubTexture name="left0000.png" x="0" y="1024" width="512" height="512"/>
+    <SubTexture name="left0001.png" x="512" y="1024" width="512" height="512"/>
+    <SubTexture name="left0002.png" x="1024" y="1024" width="512" height="512"/>
+    <SubTexture name="left0003.png" x="1536" y="1024" width="512" height="512"/>
+    <SubTexture name="right0000.png" x="0" y="1536" width="512" height="512"/>
+    <SubTexture name="right0001.png" x="512" y="1536" width="512" height="512"/>
+    <SubTexture name="right0002.png" x="1024" y="1536" width="512" height="512"/>
+    <SubTexture name="right0003.png" x="1536" y="1536" width="512" height="512"/>
+    <SubTexture name="up0000.png" x="0" y="2048" width="512" height="512"/>
+    <SubTexture name="up0001.png" x="512" y="2048" width="512" height="512"/>
+    <SubTexture name="up0002.png" x="1024" y="2048" width="512" height="512"/>
+    <SubTexture name="up0003.png" x="1536" y="2048" width="512" height="512"/>
+</TextureAtlas>

@@ -1,0 +1,21 @@
+{
+	"directory": "",
+	"defaultZoom": 0.6,
+	"isPixelStage": false,
+	"hide_girlfriend": true,
+
+	"boyfriend": [100, 0],
+	"girlfriend": [0, 0],
+	"opponent": [0, 0],
+
+	"camMove": {
+		"boyfriend": {
+		  "range": [35, 30],
+		  "active": true
+		},
+		"dad": {
+		  "range": [45, 40],
+		  "active": false
+		}
+	}
+}

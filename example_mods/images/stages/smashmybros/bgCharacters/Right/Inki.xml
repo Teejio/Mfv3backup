@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Inki.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="inkling0000" x="5" y="5" width="237" height="229" frameX="-4" frameY="-4" frameWidth="245" frameHeight="244"/>
+	<SubTexture name="inkling0001" x="247" y="5" width="237" height="230" frameX="-4" frameY="0" frameWidth="245" frameHeight="244"/>
+	<SubTexture name="inkling0002" x="247" y="5" width="237" height="230" frameX="-4" frameY="0" frameWidth="245" frameHeight="244"/>
+	<SubTexture name="inkling0003" x="489" y="5" width="245" height="230" frameX="0" frameY="-14" frameWidth="245" frameHeight="244"/>
+	<SubTexture name="inkling0004" x="489" y="5" width="245" height="230" frameX="0" frameY="-14" frameWidth="245" frameHeight="244"/>
+	<SubTexture name="inkling0005" x="739" y="5" width="237" height="231" frameX="-4" frameY="-11" frameWidth="245" frameHeight="244"/>
+	<SubTexture name="inkling0006" x="739" y="5" width="237" height="231" frameX="-4" frameY="-11" frameWidth="245" frameHeight="244"/>
+	<SubTexture name="inkling0007" x="5" y="241" width="237" height="230" frameX="-4" frameY="-6" frameWidth="245" frameHeight="244"/>
+	<SubTexture name="inkling0008" x="5" y="241" width="237" height="230" frameX="-4" frameY="-6" frameWidth="245" frameHeight="244"/>
+	<SubTexture name="inkling0009" x="5" y="5" width="237" height="229" frameX="-4" frameY="-4" frameWidth="245" frameHeight="244"/>
+	<SubTexture name="inkling0010" x="5" y="5" width="237" height="229" frameX="-4" frameY="-4" frameWidth="245" frameHeight="244"/>
+	<SubTexture name="inkling0011" x="5" y="5" width="237" height="229" frameX="-4" frameY="-4" frameWidth="245" frameHeight="244"/>
+	<SubTexture name="inkling0012" x="5" y="5" width="237" height="229" frameX="-4" frameY="-4" frameWidth="245" frameHeight="244"/>
+	<SubTexture name="inkling0013" x="5" y="5" width="237" height="229" frameX="-4" frameY="-4" frameWidth="245" frameHeight="244"/>
+</TextureAtlas>

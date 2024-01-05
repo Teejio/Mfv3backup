@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="yielder.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Starman0000" x="5" y="5" width="199" height="428" frameX="-5" frameY="-2" frameWidth="210" frameHeight="430"/>
+	<SubTexture name="Starman0001" x="209" y="5" width="194" height="430" frameX="-8" frameY="0" frameWidth="210" frameHeight="430"/>
+	<SubTexture name="Starman0002" x="209" y="5" width="194" height="430" frameX="-8" frameY="0" frameWidth="210" frameHeight="430"/>
+	<SubTexture name="Starman0003" x="408" y="5" width="210" height="413" frameX="0" frameY="-17" frameWidth="210" frameHeight="430"/>
+	<SubTexture name="Starman0004" x="408" y="5" width="210" height="413" frameX="0" frameY="-17" frameWidth="210" frameHeight="430"/>
+	<SubTexture name="Starman0005" x="623" y="5" width="199" height="417" frameX="-5" frameY="-13" frameWidth="210" frameHeight="430"/>
+	<SubTexture name="Starman0006" x="623" y="5" width="199" height="417" frameX="-5" frameY="-13" frameWidth="210" frameHeight="430"/>
+	<SubTexture name="Starman0007" x="5" y="440" width="199" height="424" frameX="-5" frameY="-6" frameWidth="210" frameHeight="430"/>
+	<SubTexture name="Starman0008" x="5" y="440" width="199" height="424" frameX="-5" frameY="-6" frameWidth="210" frameHeight="430"/>
+	<SubTexture name="Starman0009" x="5" y="5" width="199" height="428" frameX="-5" frameY="-2" frameWidth="210" frameHeight="430"/>
+	<SubTexture name="Starman0010" x="5" y="5" width="199" height="428" frameX="-5" frameY="-2" frameWidth="210" frameHeight="430"/>
+	<SubTexture name="Starman0011" x="5" y="5" width="199" height="428" frameX="-5" frameY="-2" frameWidth="210" frameHeight="430"/>
+	<SubTexture name="Starman0012" x="5" y="5" width="199" height="428" frameX="-5" frameY="-2" frameWidth="210" frameHeight="430"/>
+	<SubTexture name="Starman0013" x="5" y="5" width="199" height="428" frameX="-5" frameY="-2" frameWidth="210" frameHeight="430"/>
+</TextureAtlas>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BOWCER.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bowser0000" x="5" y="5" width="491" height="428" frameX="0" frameY="-4" frameWidth="491" frameHeight="432"/>
+	<SubTexture name="Bowser0001" x="501" y="5" width="482" height="432" frameX="-4" frameY="0" frameWidth="491" frameHeight="432"/>
+	<SubTexture name="Bowser0002" x="501" y="5" width="482" height="432" frameX="-4" frameY="0" frameWidth="491" frameHeight="432"/>
+	<SubTexture name="Bowser0003" x="988" y="5" width="491" height="416" frameX="0" frameY="-16" frameWidth="491" frameHeight="432"/>
+	<SubTexture name="Bowser0004" x="988" y="5" width="491" height="416" frameX="0" frameY="-16" frameWidth="491" frameHeight="432"/>
+	<SubTexture name="Bowser0005" x="1484" y="5" width="482" height="421" frameX="-4" frameY="-11" frameWidth="491" frameHeight="432"/>
+	<SubTexture name="Bowser0006" x="1484" y="5" width="482" height="421" frameX="-4" frameY="-11" frameWidth="491" frameHeight="432"/>
+	<SubTexture name="Bowser0007" x="5" y="442" width="491" height="425" frameX="0" frameY="-7" frameWidth="491" frameHeight="432"/>
+	<SubTexture name="Bowser0008" x="5" y="442" width="491" height="425" frameX="0" frameY="-7" frameWidth="491" frameHeight="432"/>
+	<SubTexture name="Bowser0009" x="5" y="5" width="491" height="428" frameX="0" frameY="-4" frameWidth="491" frameHeight="432"/>
+	<SubTexture name="Bowser0010" x="5" y="5" width="491" height="428" frameX="0" frameY="-4" frameWidth="491" frameHeight="432"/>
+	<SubTexture name="Bowser0011" x="5" y="5" width="491" height="428" frameX="0" frameY="-4" frameWidth="491" frameHeight="432"/>
+	<SubTexture name="Bowser0012" x="5" y="5" width="491" height="428" frameX="0" frameY="-4" frameWidth="491" frameHeight="432"/>
+	<SubTexture name="Bowser0013" x="5" y="5" width="491" height="428" frameX="0" frameY="-4" frameWidth="491" frameHeight="432"/>
+</TextureAtlas>

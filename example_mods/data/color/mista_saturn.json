@@ -1,0 +1,22 @@
+{
+    "color1": {
+        "hue": 19,
+        "saturation": -21,
+        "brightness": 13
+    },
+    "color2": {
+        "hue": 119,
+        "saturation": -36,
+        "brightness": 36
+    },
+    "color3": {
+        "hue": -99,
+        "saturation": -45,
+        "brightness": 8
+    },
+    "color4": {
+        "hue": 5,
+        "saturation": -12,
+        "brightness": 33
+    }
+}

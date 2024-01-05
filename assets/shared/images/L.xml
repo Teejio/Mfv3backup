@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="transition.png">
+<SubTexture name="intro0000" x="3853" y="1100" width="36" height="466" frameX="-950" frameY="-316" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="intro0001" x="3889" y="1100" width="92" height="425" frameX="-928" frameY="-337" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="intro0002" x="2527" y="1100" width="634" height="1066" frameX="-656" frameY="-16" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="intro0003" x="3161" y="1100" width="692" height="1025" frameX="-628" frameY="-37" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="intro0004" x="0" y="0" width="1235" height="1100" frameX="-351" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="intro0005" x="1235" y="0" width="1292" height="1100" frameX="-322" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="intro0006" x="0" y="1100" width="1834" height="1100" frameX="-52" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="intro0007" x="2527" y="0" width="1894" height="1100" frameX="-24" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="intro0008" x="0" y="2200" width="1940" height="1100" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="intro0009" x="1940" y="2200" width="1940" height="1100" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="intro0010" x="0" y="3300" width="1940" height="1100" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="intro0011" x="1940" y="3300" width="1940" height="1100" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="intro0012" x="4421" y="0" width="1940" height="1100" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="intro0013" x="4421" y="1100" width="1940" height="1100" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="intro0014" x="4421" y="2200" width="1940" height="1100" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="intro0015" x="4421" y="3300" width="1940" height="1100" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="intro0016" x="0" y="4400" width="1940" height="1100" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="intro0017" x="1940" y="4400" width="1940" height="1100" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="intro0018" x="3880" y="4400" width="1940" height="1100" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="intro0019" x="6361" y="0" width="1940" height="1100" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="intro0020" x="6361" y="1100" width="1940" height="1100" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="intro0021" x="6361" y="2200" width="1940" height="1100" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="intro0022" x="6361" y="3300" width="1940" height="1100" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="intro0023" x="6361" y="3300" width="1940" height="1100" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="intro0024" x="6361" y="4400" width="1940" height="1100" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="intro0025" x="6361" y="4400" width="1940" height="1100" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="intro0026" x="6361" y="4400" width="1940" height="1100" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="intro0027" x="6361" y="4400" width="1940" height="1100" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="intro0028" x="6361" y="4400" width="1940" height="1100" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="intro0029" x="6361" y="4400" width="1940" height="1100" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="intro0030" x="6361" y="4400" width="1940" height="1100" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="intro0031" x="6361" y="4400" width="1940" height="1100" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="intro0032" x="6361" y="4400" width="1940" height="1100" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="intro0033" x="6361" y="4400" width="1940" height="1100" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="intro0034" x="6361" y="4400" width="1940" height="1100" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="intro0035" x="6361" y="4400" width="1940" height="1100" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

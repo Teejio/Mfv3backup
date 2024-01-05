@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Paula.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Paula-Down0000" x="0" y="0" width="346" height="691" frameX="-5" frameY="-8" frameWidth="351" frameHeight="700"/>
+	<SubTexture name="Paula-Down0001" x="0" y="0" width="346" height="691" frameX="-5" frameY="-8" frameWidth="351" frameHeight="700"/>
+	<SubTexture name="Paula-Down0002" x="346" y="0" width="346" height="700" frameX="0" frameY="0" frameWidth="351" frameHeight="700"/>
+	<SubTexture name="Paula-Down0003" x="346" y="0" width="346" height="700" frameX="0" frameY="0" frameWidth="351" frameHeight="700"/>
+	<SubTexture name="Paula-Down0004" x="346" y="0" width="346" height="700" frameX="0" frameY="0" frameWidth="351" frameHeight="700"/>
+	<SubTexture name="Paula-Down0005" x="346" y="0" width="346" height="700" frameX="0" frameY="0" frameWidth="351" frameHeight="700"/>
+	<SubTexture name="Paula-Down0006" x="346" y="0" width="346" height="700" frameX="0" frameY="0" frameWidth="351" frameHeight="700"/>
+	<SubTexture name="Paula-Down0007" x="346" y="0" width="346" height="700" frameX="0" frameY="0" frameWidth="351" frameHeight="700"/>
+	<SubTexture name="Paula-Down0008" x="346" y="0" width="346" height="700" frameX="0" frameY="0" frameWidth="351" frameHeight="700"/>
+	<SubTexture name="Paula-Down0009" x="346" y="0" width="346" height="700" frameX="0" frameY="0" frameWidth="351" frameHeight="700"/>
+	<SubTexture name="Paula-Down0010" x="346" y="0" width="346" height="700" frameX="0" frameY="0" frameWidth="351" frameHeight="700"/>
+	<SubTexture name="Paula-Down0011" x="346" y="0" width="346" height="700" frameX="0" frameY="0" frameWidth="351" frameHeight="700"/>
+	<SubTexture name="Paula-Down0012" x="346" y="0" width="346" height="700" frameX="0" frameY="0" frameWidth="351" frameHeight="700"/>
+	<SubTexture name="Paula-Down0013" x="346" y="0" width="346" height="700" frameX="0" frameY="0" frameWidth="351" frameHeight="700"/>
+	<SubTexture name="Paula-Idle0000" x="692" y="0" width="346" height="742" frameX="-5" frameY="0" frameWidth="368" frameHeight="742"/>
+	<SubTexture name="Paula-Idle0001" x="1038" y="0" width="345" height="741" frameX="0" frameY="-1" frameWidth="368" frameHeight="742"/>
+	<SubTexture name="Paula-Idle0002" x="1038" y="0" width="345" height="741" frameX="0" frameY="-1" frameWidth="368" frameHeight="742"/>
+	<SubTexture name="Paula-Idle0003" x="1383" y="0" width="344" height="714" frameX="-24" frameY="-28" frameWidth="368" frameHeight="742"/>
+	<SubTexture name="Paula-Idle0004" x="1383" y="0" width="344" height="714" frameX="-24" frameY="-28" frameWidth="368" frameHeight="742"/>
+	<SubTexture name="Paula-Idle0005" x="1727" y="0" width="345" height="719" frameX="-19" frameY="-23" frameWidth="368" frameHeight="742"/>
+	<SubTexture name="Paula-Idle0006" x="1727" y="0" width="345" height="719" frameX="-19" frameY="-23" frameWidth="368" frameHeight="742"/>
+	<SubTexture name="Paula-Idle0007" x="2072" y="0" width="345" height="731" frameX="-11" frameY="-11" frameWidth="368" frameHeight="742"/>
+	<SubTexture name="Paula-Idle0008" x="2072" y="0" width="345" height="731" frameX="-11" frameY="-11" frameWidth="368" frameHeight="742"/>
+	<SubTexture name="Paula-Idle0009" x="2417" y="0" width="346" height="740" frameX="-3" frameY="-2" frameWidth="368" frameHeight="742"/>
+	<SubTexture name="Paula-Idle0010" x="2417" y="0" width="346" height="740" frameX="-3" frameY="-2" frameWidth="368" frameHeight="742"/>
+	<SubTexture name="Paula-Idle0011" x="692" y="0" width="346" height="742" frameX="-5" frameY="0" frameWidth="368" frameHeight="742"/>
+	<SubTexture name="Paula-Idle0012" x="692" y="0" width="346" height="742" frameX="-5" frameY="0" frameWidth="368" frameHeight="742"/>
+	<SubTexture name="Paula-Idle0013" x="692" y="0" width="346" height="742" frameX="-5" frameY="0" frameWidth="368" frameHeight="742"/>
+	<SubTexture name="Paula-Left0000" x="2763" y="0" width="449" height="691" frameX="0" frameY="-11" frameWidth="450" frameHeight="702"/>
+	<SubTexture name="Paula-Left0001" x="2763" y="0" width="449" height="691" frameX="0" frameY="-11" frameWidth="450" frameHeight="702"/>
+	<SubTexture name="Paula-Left0002" x="3212" y="0" width="432" height="702" frameX="-18" frameY="0" frameWidth="450" frameHeight="702"/>
+	<SubTexture name="Paula-Left0003" x="3212" y="0" width="432" height="702" frameX="-18" frameY="0" frameWidth="450" frameHeight="702"/>
+	<SubTexture name="Paula-Left0004" x="3644" y="0" width="407" height="702" frameX="-43" frameY="0" frameWidth="450" frameHeight="702"/>
+	<SubTexture name="Paula-Left0005" x="3644" y="0" width="407" height="702" frameX="-43" frameY="0" frameWidth="450" frameHeight="702"/>
+	<SubTexture name="Paula-Left0006" x="0" y="742" width="407" height="702" frameX="-43" frameY="0" frameWidth="450" frameHeight="702"/>
+	<SubTexture name="Paula-Left0007" x="0" y="742" width="407" height="702" frameX="-43" frameY="0" frameWidth="450" frameHeight="702"/>
+	<SubTexture name="Paula-Left0008" x="407" y="742" width="407" height="702" frameX="-43" frameY="0" frameWidth="450" frameHeight="702"/>
+	<SubTexture name="Paula-Left0009" x="407" y="742" width="407" height="702" frameX="-43" frameY="0" frameWidth="450" frameHeight="702"/>
+	<SubTexture name="Paula-Left0010" x="407" y="742" width="407" height="702" frameX="-43" frameY="0" frameWidth="450" frameHeight="702"/>
+	<SubTexture name="Paula-Left0011" x="407" y="742" width="407" height="702" frameX="-43" frameY="0" frameWidth="450" frameHeight="702"/>
+	<SubTexture name="Paula-Left0012" x="407" y="742" width="407" height="702" frameX="-43" frameY="0" frameWidth="450" frameHeight="702"/>
+	<SubTexture name="Paula-Left0013" x="407" y="742" width="407" height="702" frameX="-43" frameY="0" frameWidth="450" frameHeight="702"/>
+	<SubTexture name="Paula-Right0000" x="814" y="742" width="598" height="715"/>
+	<SubTexture name="Paula-Right0001" x="814" y="742" width="598" height="715"/>
+	<SubTexture name="Paula-Right0002" x="1412" y="742" width="579" height="712" frameX="-5" frameY="-3" frameWidth="598" frameHeight="715"/>
+	<SubTexture name="Paula-Right0003" x="1412" y="742" width="579" height="712" frameX="-5" frameY="-3" frameWidth="598" frameHeight="715"/>
+	<SubTexture name="Paula-Right0004" x="1991" y="742" width="567" height="712" frameX="-5" frameY="-3" frameWidth="598" frameHeight="715"/>
+	<SubTexture name="Paula-Right0005" x="1991" y="742" width="567" height="712" frameX="-5" frameY="-3" frameWidth="598" frameHeight="715"/>
+	<SubTexture name="Paula-Right0006" x="2558" y="742" width="576" height="712" frameX="-5" frameY="-3" frameWidth="598" frameHeight="715"/>
+	<SubTexture name="Paula-Right0007" x="2558" y="742" width="576" height="712" frameX="-5" frameY="-3" frameWidth="598" frameHeight="715"/>
+	<SubTexture name="Paula-Right0008" x="3134" y="742" width="464" height="712" frameX="-5" frameY="-3" frameWidth="598" frameHeight="715"/>
+	<SubTexture name="Paula-Right0009" x="3134" y="742" width="464" height="712" frameX="-5" frameY="-3" frameWidth="598" frameHeight="715"/>
+	<SubTexture name="Paula-Right0010" x="3134" y="742" width="464" height="712" frameX="-5" frameY="-3" frameWidth="598" frameHeight="715"/>
+	<SubTexture name="Paula-Right0011" x="3134" y="742" width="464" height="712" frameX="-5" frameY="-3" frameWidth="598" frameHeight="715"/>
+	<SubTexture name="Paula-Right0012" x="3134" y="742" width="464" height="712" frameX="-5" frameY="-3" frameWidth="598" frameHeight="715"/>
+	<SubTexture name="Paula-Right0013" x="3134" y="742" width="464" height="712" frameX="-5" frameY="-3" frameWidth="598" frameHeight="715"/>
+	<SubTexture name="Paula-Up0000" x="3598" y="742" width="369" height="747" frameX="0" frameY="-9" frameWidth="369" frameHeight="764"/>
+	<SubTexture name="Paula-Up0001" x="3598" y="742" width="369" height="747" frameX="0" frameY="-9" frameWidth="369" frameHeight="764"/>
+	<SubTexture name="Paula-Up0002" x="0" y="1489" width="366" height="764" frameX="-3" frameY="0" frameWidth="369" frameHeight="764"/>
+	<SubTexture name="Paula-Up0003" x="0" y="1489" width="366" height="764" frameX="-3" frameY="0" frameWidth="369" frameHeight="764"/>
+	<SubTexture name="Paula-Up0004" x="0" y="1489" width="366" height="764" frameX="-3" frameY="0" frameWidth="369" frameHeight="764"/>
+	<SubTexture name="Paula-Up0005" x="0" y="1489" width="366" height="764" frameX="-3" frameY="0" frameWidth="369" frameHeight="764"/>
+	<SubTexture name="Paula-Up0006" x="0" y="1489" width="366" height="764" frameX="-3" frameY="0" frameWidth="369" frameHeight="764"/>
+	<SubTexture name="Paula-Up0007" x="0" y="1489" width="366" height="764" frameX="-3" frameY="0" frameWidth="369" frameHeight="764"/>
+	<SubTexture name="Paula-Up0008" x="0" y="1489" width="366" height="764" frameX="-3" frameY="0" frameWidth="369" frameHeight="764"/>
+	<SubTexture name="Paula-Up0009" x="0" y="1489" width="366" height="764" frameX="-3" frameY="0" frameWidth="369" frameHeight="764"/>
+	<SubTexture name="Paula-Up0010" x="0" y="1489" width="366" height="764" frameX="-3" frameY="0" frameWidth="369" frameHeight="764"/>
+	<SubTexture name="Paula-Up0011" x="0" y="1489" width="366" height="764" frameX="-3" frameY="0" frameWidth="369" frameHeight="764"/>
+	<SubTexture name="Paula-Up0012" x="0" y="1489" width="366" height="764" frameX="-3" frameY="0" frameWidth="369" frameHeight="764"/>
+	<SubTexture name="Paula-Up0013" x="0" y="1489" width="366" height="764" frameX="-3" frameY="0" frameWidth="369" frameHeight="764"/>
+</TextureAtlas>

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="I_Miss_Pico.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Courtain-BF0000" x="3" y="3" width="442" height="579"/>
+	<SubTexture name="Courtain-BF0001" x="445" y="3" width="442" height="579"/>
+	<SubTexture name="Courtain-BF0002" x="445" y="3" width="442" height="579"/>
+	<SubTexture name="Courtain-BF0003" x="887" y="3" width="442" height="579"/>
+	<SubTexture name="Courtain-BF0004" x="1329" y="3" width="442" height="579"/>
+	<SubTexture name="Courtain-BF0005" x="1771" y="3" width="442" height="579"/>
+	<SubTexture name="Courtain-BF0006" x="1771" y="3" width="442" height="579"/>
+	<SubTexture name="Courtain-BF0007" x="2213" y="3" width="442" height="579"/>
+	<SubTexture name="Courtain-BF0008" x="2213" y="3" width="442" height="579"/>
+	<SubTexture name="Courtain-BF0009" x="2655" y="3" width="442" height="579"/>
+	<SubTexture name="Courtain-BF0010" x="2655" y="3" width="442" height="579"/>
+	<SubTexture name="Courtain-BF0011" x="3097" y="3" width="442" height="579"/>
+	<SubTexture name="Courtain-BF0012" x="3097" y="3" width="442" height="579"/>
+	<SubTexture name="Courtain-BF0013" x="3097" y="3" width="442" height="579"/>
+	<SubTexture name="Courtain-BF0014" x="3097" y="3" width="442" height="579"/>
+	<SubTexture name="Down-BF0000" x="3539" y="3" width="443" height="579"/>
+	<SubTexture name="Down-BF0001" x="3539" y="3" width="443" height="579"/>
+	<SubTexture name="Down-BF0002" x="3" y="582" width="443" height="579"/>
+	<SubTexture name="Down-BF0003" x="3" y="582" width="443" height="579"/>
+	<SubTexture name="Down-BF0004" x="446" y="582" width="443" height="579"/>
+	<SubTexture name="Down-BF0005" x="446" y="582" width="443" height="579"/>
+	<SubTexture name="Down-BF0006" x="446" y="582" width="443" height="579"/>
+	<SubTexture name="Down-BF0007" x="889" y="582" width="443" height="579"/>
+	<SubTexture name="Down-BF0008" x="889" y="582" width="443" height="579"/>
+	<SubTexture name="Idle-BF0000" x="1332" y="582" width="442" height="579"/>
+	<SubTexture name="Idle-BF0001" x="1332" y="582" width="442" height="579"/>
+	<SubTexture name="Idle-BF0002" x="1332" y="582" width="442" height="579"/>
+	<SubTexture name="Idle-BF0003" x="1332" y="582" width="442" height="579"/>
+	<SubTexture name="Idle-BF0004" x="1774" y="582" width="442" height="579"/>
+	<SubTexture name="Idle-BF0005" x="1774" y="582" width="442" height="579"/>
+	<SubTexture name="Idle-BF0006" x="1774" y="582" width="442" height="579"/>
+	<SubTexture name="Idle-BF0007" x="1774" y="582" width="442" height="579"/>
+	<SubTexture name="Idle-BF0008" x="1332" y="582" width="442" height="579"/>
+	<SubTexture name="Left-BF0000" x="2216" y="582" width="442" height="579"/>
+	<SubTexture name="Left-BF0001" x="2216" y="582" width="442" height="579"/>
+	<SubTexture name="Left-BF0002" x="2658" y="582" width="442" height="579"/>
+	<SubTexture name="Left-BF0003" x="2658" y="582" width="442" height="579"/>
+	<SubTexture name="Left-BF0004" x="3100" y="582" width="442" height="579"/>
+	<SubTexture name="Left-BF0005" x="3100" y="582" width="442" height="579"/>
+	<SubTexture name="Left-BF0006" x="3100" y="582" width="442" height="579"/>
+	<SubTexture name="Left-BF0007" x="3100" y="582" width="442" height="579"/>
+	<SubTexture name="Left-BF0008" x="3100" y="582" width="442" height="579"/>
+	<SubTexture name="Right-BF0000" x="3542" y="582" width="443" height="579"/>
+	<SubTexture name="Right-BF0001" x="3542" y="582" width="443" height="579"/>
+	<SubTexture name="Right-BF0002" x="3" y="1161" width="443" height="579"/>
+	<SubTexture name="Right-BF0003" x="3" y="1161" width="443" height="579"/>
+	<SubTexture name="Right-BF0004" x="446" y="1161" width="443" height="579"/>
+	<SubTexture name="Right-BF0005" x="446" y="1161" width="443" height="579"/>
+	<SubTexture name="Right-BF0006" x="446" y="1161" width="443" height="579"/>
+	<SubTexture name="Right-BF0007" x="446" y="1161" width="443" height="579"/>
+	<SubTexture name="Right-BF0008" x="3" y="1161" width="443" height="579"/>
+	<SubTexture name="Up-BF0000" x="889" y="1161" width="443" height="579"/>
+	<SubTexture name="Up-BF0001" x="889" y="1161" width="443" height="579"/>
+	<SubTexture name="Up-BF0002" x="1332" y="1161" width="443" height="579"/>
+	<SubTexture name="Up-BF0003" x="1332" y="1161" width="443" height="579"/>
+	<SubTexture name="Up-BF0004" x="1332" y="1161" width="443" height="579"/>
+	<SubTexture name="Up-BF0005" x="1775" y="1161" width="443" height="579"/>
+	<SubTexture name="Up-BF0006" x="1775" y="1161" width="443" height="579"/>
+	<SubTexture name="Up-BF0007" x="1775" y="1161" width="443" height="579"/>
+	<SubTexture name="Up-BF0008" x="1775" y="1161" width="443" height="579"/>
+</TextureAtlas>

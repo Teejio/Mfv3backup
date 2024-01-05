@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-56
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down-Lucas",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				-63
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left-Lucas",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-76,
+				-61
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right-Lucas",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				-70
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up-Lucas",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-63
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle-Lucas",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/LucasTM",
+	"position": [
+		30,
+		260
+	],
+	"healthicon": "LucasTM",
+	"flip_x": true,
+	"healthbar_colors": [
+		240,
+		200,
+		0
+	],
+	"camera_position": [
+		30,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

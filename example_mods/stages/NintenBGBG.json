@@ -1,0 +1,28 @@
+{
+	"directory": "",
+	"defaultZoom": 0.70,
+	"isPixelStage": false,
+	"hide_girlfriend": true,
+
+	"bfColor": "bf",
+	"dadColor": "ninten",
+	"boyfriend":  [1100, -20],
+	"girlfriend": [400, 130],
+	"opponent":   [250, 0],
+
+	"camera_boyfriend": [0, 10],
+	"camera_opponent": [100, 10],
+	"camera_girlfriend": [0, 0],
+
+	"camMove": {
+		"boyfriend": {
+		  "range": [35, 30],
+		  "active": true
+		},
+		"dad": {
+		  "range": [45, 40],
+		  "active": true
+		}
+	}
+
+}

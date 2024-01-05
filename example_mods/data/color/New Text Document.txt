@@ -1,0 +1,12 @@
+{
+	"directory": "",
+	"defaultZoom": 1.05,
+	"isPixelStage": false,
+	"hide_girlfriend": true,
+
+	"bfColor": "lloyd",
+	"dadColor": "jeff",
+	"boyfriend": [1700, 700],
+	"girlfriend": [400, 130],
+	"opponent": [ 1000, 700 ]
+}

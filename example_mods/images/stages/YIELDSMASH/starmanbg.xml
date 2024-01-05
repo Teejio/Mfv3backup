@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:c2bf13d5f422c5297eaee947471597a7:949a598470d7c87f27fbf35959d233da:c230db16621829a2605f5d646afa1873$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+pX => x pos of the pivot point (relative to sprite width)
+pY => y pos of the pivot point (relative to sprite height)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+with polygon mode enabled:
+vertices   => points in sprite coordinate system (x0,y0,x1,y1,x2,y2, ...)
+verticesUV => points in sheet coordinate system (x0,y0,x1,y1,x2,y2, ...)
+triangles  => sprite triangulation, 3 vertex indices per triangle
+-->
+<TextureAtlas imagePath="starmanbg.png" width="1692" height="1428">
+	<SubTexture name="frame0000" x="0" y="0" width="423" height="238"/>
+	<SubTexture name="frame0001" x="423" y="0" width="423" height="238"/>
+	<SubTexture name="frame0002" x="846" y="0" width="423" height="238"/>
+	<SubTexture name="frame0003" x="1269" y="0" width="423" height="238"/>
+	<SubTexture name="frame0004" x="0" y="238" width="423" height="238"/>
+	<SubTexture name="frame0005" x="423" y="238" width="423" height="238"/>
+	<SubTexture name="frame0006" x="846" y="238" width="423" height="238"/>
+	<SubTexture name="frame0007" x="1269" y="238" width="423" height="238"/>
+	<SubTexture name="frame0008" x="0" y="476" width="423" height="238"/>
+	<SubTexture name="frame0009" x="423" y="476" width="423" height="238"/>
+	<SubTexture name="frame0010" x="846" y="476" width="423" height="238"/>
+	<SubTexture name="frame0011" x="1269" y="476" width="423" height="238"/>
+	<SubTexture name="frame0012" x="0" y="714" width="423" height="238"/>
+	<SubTexture name="frame0013" x="423" y="714" width="423" height="238"/>
+	<SubTexture name="frame0014" x="846" y="714" width="423" height="238"/>
+	<SubTexture name="frame0015" x="1269" y="714" width="423" height="238"/>
+	<SubTexture name="frame0016" x="0" y="952" width="423" height="238"/>
+	<SubTexture name="frame0017" x="423" y="952" width="423" height="238"/>
+	<SubTexture name="frame0018" x="846" y="952" width="423" height="238"/>
+	<SubTexture name="frame0019" x="1269" y="952" width="423" height="238"/>
+	<SubTexture name="frame0020" x="0" y="1190" width="423" height="238"/>
+	<SubTexture name="frame0021" x="423" y="1190" width="423" height="238"/>
+	<SubTexture name="frame0022" x="423" y="1190" width="423" height="238"/>
+	<SubTexture name="frame0023" x="0" y="1190" width="423" height="238"/>
+	<SubTexture name="frame0024" x="1269" y="952" width="423" height="238"/>
+	<SubTexture name="frame0025" x="846" y="952" width="423" height="238"/>
+	<SubTexture name="frame0026" x="423" y="952" width="423" height="238"/>
+	<SubTexture name="frame0027" x="0" y="952" width="423" height="238"/>
+	<SubTexture name="frame0028" x="1269" y="714" width="423" height="238"/>
+	<SubTexture name="frame0029" x="846" y="714" width="423" height="238"/>
+	<SubTexture name="frame0030" x="423" y="714" width="423" height="238"/>
+	<SubTexture name="frame0031" x="0" y="714" width="423" height="238"/>
+	<SubTexture name="frame0032" x="1269" y="476" width="423" height="238"/>
+	<SubTexture name="frame0033" x="846" y="476" width="423" height="238"/>
+	<SubTexture name="frame0034" x="423" y="476" width="423" height="238"/>
+	<SubTexture name="frame0035" x="0" y="476" width="423" height="238"/>
+	<SubTexture name="frame0036" x="1269" y="238" width="423" height="238"/>
+	<SubTexture name="frame0037" x="846" y="238" width="423" height="238"/>
+	<SubTexture name="frame0038" x="423" y="238" width="423" height="238"/>
+	<SubTexture name="frame0039" x="0" y="238" width="423" height="238"/>
+	<SubTexture name="frame0040" x="1269" y="0" width="423" height="238"/>
+	<SubTexture name="frame0041" x="846" y="0" width="423" height="238"/>
+	<SubTexture name="frame0042" x="423" y="0" width="423" height="238"/>
+	<SubTexture name="frame0043" x="0" y="0" width="423" height="238"/>
+</TextureAtlas>

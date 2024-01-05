@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Pito.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Pit0000" x="5" y="5" width="380" height="368" frameX="-4" frameY="-3" frameWidth="388" frameHeight="371"/>
+	<SubTexture name="Pit0001" x="390" y="5" width="380" height="371" frameX="-4" frameY="0" frameWidth="388" frameHeight="371"/>
+	<SubTexture name="Pit0002" x="390" y="5" width="380" height="371" frameX="-4" frameY="0" frameWidth="388" frameHeight="371"/>
+	<SubTexture name="Pit0003" x="775" y="5" width="388" height="359" frameX="0" frameY="-12" frameWidth="388" frameHeight="371"/>
+	<SubTexture name="Pit0004" x="775" y="5" width="388" height="359" frameX="0" frameY="-12" frameWidth="388" frameHeight="371"/>
+	<SubTexture name="Pit0005" x="1168" y="5" width="388" height="362" frameX="0" frameY="-9" frameWidth="388" frameHeight="371"/>
+	<SubTexture name="Pit0006" x="1168" y="5" width="388" height="362" frameX="0" frameY="-9" frameWidth="388" frameHeight="371"/>
+	<SubTexture name="Pit0007" x="1561" y="5" width="383" height="365" frameX="-3" frameY="-6" frameWidth="388" frameHeight="371"/>
+	<SubTexture name="Pit0008" x="1561" y="5" width="383" height="365" frameX="-3" frameY="-6" frameWidth="388" frameHeight="371"/>
+	<SubTexture name="Pit0009" x="5" y="5" width="380" height="368" frameX="-4" frameY="-3" frameWidth="388" frameHeight="371"/>
+	<SubTexture name="Pit0010" x="5" y="5" width="380" height="368" frameX="-4" frameY="-3" frameWidth="388" frameHeight="371"/>
+	<SubTexture name="Pit0011" x="5" y="5" width="380" height="368" frameX="-4" frameY="-3" frameWidth="388" frameHeight="371"/>
+	<SubTexture name="Pit0012" x="5" y="5" width="380" height="368" frameX="-4" frameY="-3" frameWidth="388" frameHeight="371"/>
+	<SubTexture name="Pit0013" x="5" y="5" width="380" height="368" frameX="-4" frameY="-3" frameWidth="388" frameHeight="371"/>
+</TextureAtlas>
